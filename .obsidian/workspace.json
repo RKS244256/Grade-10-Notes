@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/README.md",
+                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/README.md",
+                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/README.md",
+                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/README.md"
+                "file": "Science/Chemistry/Chemistry_SNC2D0.md"
               }
             }
           },
@@ -158,8 +158,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036005a1a9781fb7",
+  "active": "fc7a08dd8a0e1083",
   "lastOpenFiles": [
+    "Science/README.md",
     "Science/Chemistry/Standard_Atomic_Notation.jpg",
     "Science/Chemistry/Phenolphthalein.jpg",
     "Science/Chemistry/pH_Scale.jpg",
@@ -171,11 +172,9 @@
     "Science/Chemistry/Hetero_and_Homo_Mixtures.webp",
     "Science/Chemistry/Covalent_Compound_Structure.png",
     "Science/Chemistry/Chemistry_SNC2D0.md",
-    "Science/Chemistry/Bromothymol_Blue.png",
     "Science/Chemistry",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",
-    "Science/README.md",
     "Science",
     "Bohr.md",
     "Untitled.canvas",

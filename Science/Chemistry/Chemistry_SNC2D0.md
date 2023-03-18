@@ -12,6 +12,8 @@
 
 **Heterogeneous** mixtures are mixtures where the components are not uniform. An example is cereal and milk.
 
+**Precipitates** are an insoluble compound. This is a solid by either decreasing the solubility of a compound or reacting 2 salt solutions.
+
 ![[Hetero_and_Homo_Mixtures.webp]]
 
 	
