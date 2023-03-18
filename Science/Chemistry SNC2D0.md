@@ -1,3 +1,20 @@
+## Basic/Misc Science Knowledge
+
+### Definitions
+
+**Pure substances** are substances which have a constant chemical composition. They are made of one element or compound. An example is salt.
+
+**Mixtures** are when substances are generally mixed without undergoing a chemical change and are not completely dissolved. An example is salt and pepper mixed.
+
+**Solutions** are when substances are dissolved completely and cannot be filtered out. It's a type of homogeneous mixture. A solution consists of a solute and solvent. An example is salt water.
+
+**Homogeneous** mixtures are mixtures where the components used to make the mixture are uniformly distributed throughout the mixture. An example is vinegar.
+
+**Heterogeneous** mixtures are mixutres where the components are not uniform. An example is cereal and milk.
+
+![[Hetero_and_Homo_Mixtures.webp]]
+
+
 ## Periodic Table & Atomic Structure
 
 ### Definitions
@@ -64,7 +81,7 @@ You may be asked to write an element in "Standard Atomic Notation"
 ![[Standard_Atomic_Notation.jpg]]
 
 
-## Physical and Chemical Properties and Changes
+## Physical & Chemical Properties & Changes
 
 **Physical Properties** are properties observable by our 5 senses (touch, taste, smell, sight, sound)
 
@@ -309,7 +326,7 @@ Examples:
 - SCl<sub>2</sub> (Sulfur Dichloride)
 - H<sub>2</sub>Se (Dihydrogen Monoselenide)
 - Br<sub>3</sub>P (Tribromine Monophosphide)
-## Differences Between Ionic and Covalent/Molecular Compounds
+## Differences Between Ionic & Covalent/Molecular Compounds
 
 ### TL;DR
 | Properties    | Ionic             | Covalent/Molecular                 |
@@ -377,6 +394,8 @@ If you take a hammer and strike a large crystal, you would end up using so much 
 In either type of equation, you would write it like so:
 Reactant + Reactant -> Product + Product
 
+Reactants are on the left, products are on the right.
+
 Notice that instead of an equal sign, we use an arrow as the reactants and the products are not equal! This equation is represents a process.
 
 #### Writing Word Equations
@@ -426,6 +445,114 @@ As you can probably tell, each reaction has a different layout for reactions and
 
 **Skeleton equations** are equations where the number of atoms are not equal on both sides and therefore doesn't follow the law of conservation of mass. 
 
-In order to fix this, we **balance** the equations by adding coefficients.
+The point of balancing is to ensure the equation has the same amount of atoms on both sides and thus follows the law of conservation of mass.
 
-The point of balancing is to 
+In order to fix this, we **balance** the equations by adding coefficients (we cannot alter the subscripts).
+
+In order to keep track of how many atoms/ions are on each side, we like to use a table.
+
+| Atoms | Left Side | Right Side |
+| ----- | --------- | ---------- |
+|       |           |            |
+|       |           |            |
+|       |           |            |
+|       |           |            |
+
+Add coefficients as you see fit until you have the same amount of atoms on each side for each element.
+
+
+## Acids & Bases
+
+**Acids** are substances that release H (Hydrogen) ions when dissolved in water (forming an aqueous solution).
+
+**Bases** are substances that release OH (Hydroxide) ions when dissolved in water (forming an aqueous solution).
+
+**Properties:**
+|         | Acid                 | Base (Alkali)               |
+| ------- | -------------------- | --------------------------- |
+| Feel    | Wet                  | Slippery                    |
+| Taste   | Sour                 | Bitter                      |
+| Formula | Begins with Hydrogen | Most contain hydroxide ions |
+| Example | Vinegar              | Baking Soda                            |
+
+### Binary Acids
+
+**Binary acids** contain 2 elements (one of which is Hydrogen).  It's made from a gas dissolved in water.
+
+#### Naming
+
+Starts with the prefix "hydro" and ends with the suffix "ic"
+
+#### Examples
+
+Hydrofluoric Acid (HF<sub>(aq)</sub>)
+Hydrosulphic Acid (H<sub>2</sub>S<sub>(aq)</sub>)
+Hydrobromic Acid (HBr<sub>(aq)</sub>)
+
+### Oxyacids
+
+**Oxyacids** contain 3 elements (one of which is Hydrogen and Oxygen).
+
+#### Naming
+Drop the "ate" in the polyatomic ion and use the suffix "ic". Then add the word "acid" afterwards.
+
+#### Examples
+Nitric Acid (HNO<sub>3(aq)</sub>)
+Bromic Acid (HBrO<sub>3aq</sub>)
+Phosphoric Acid (H<sub>3</sub>PO<sub>4(aq)</sub>)
+
+### Bases
+
+**Bases** when reacting with acids will neutralize and yield salt and water.
+
+Bases either contain OH (Hydroxide) or HCO<sub>3</sub> (Bicarbonate) and behave like bases whether in a solution or not. Therefore, the aqueous symbol is not needed. 
+
+### Naming
+
+There's no naming scheme for bases, just name them like normal :P
+
+#### Examples
+
+Zinc Hydroxide (Zn(OH)<sub>2</sub>)
+Sodium Hydroxide (NaOH)
+
+#### Neutralization
+
+When a base and acid are mixed, they produce salt and water.
+
+Base + acid -> Salt + water
+
+#### pH Scale
+
+![[pH_Scale.jpg]]
+
+The pH scale is used as a measure of acidity to a solution.
+
+It's ranged from 0 - 14 with 0 being the most acidic and 14 being the most basic. 7 is neutral. 
+
+### Indicators
+
+There are 4 main indicators to tell whether a compound is an acid or base and even the range it falls in on the pH scale.
+
+These 4 are:
+- Red Litmus Paper
+- Blue Litmus Paper
+- Bromothymol Blue
+- Phenolphthalein
+
+Here are it's reactions with acids and bases.
+
+| Indicator         | Base       | Neutral    | Acid      |
+| ----------------- | ---------- | ---------- | --------- |
+| Red Litmus Paper  | Turns Blue | Stays Red  | Stays Red |
+| Blue Litmus Paper | Stays Blue | Stays blue | Turns Red |
+| Bromothymol Blue  | Stays Blue | Turns Green | Turns Yellow    |
+| Phenolphthalein   | Turns Pink | Colorless  | Colorless |
+
+**Phenolphthalein**
+![[Phenolphthalein.jpg]]
+**Note:** Water turned a cloudy grey in my experience but I could've been doing something wrong `¯\_(ツ)_/¯`
+
+**Bromothymol Blue**
+![[Bromothymol_Blue.png]]
+**NOTE:** In my experience, Bromothymol Blue does not turn green for neutral bases but who knows, maybe I was doing it wrong ``¯\_(ツ)_/¯``
