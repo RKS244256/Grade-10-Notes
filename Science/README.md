@@ -1,4 +1,4 @@
 ## SNC2DO
 
 ## Chemistry
-[[Chemistry SNC2D0]]
+![[Chemistry SNC2D0]]
