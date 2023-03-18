@@ -10,11 +10,11 @@
 
 **Homogeneous** mixtures are mixtures where the components used to make the mixture are uniformly distributed throughout the mixture. An example is vinegar.
 
-**Heterogeneous** mixtures are mixutres where the components are not uniform. An example is cereal and milk.
+**Heterogeneous** mixtures are mixtures where the components are not uniform. An example is cereal and milk.
 
 ![[Hetero_and_Homo_Mixtures.webp]]
 
-
+	
 ## Periodic Table & Atomic Structure
 
 ### Definitions
