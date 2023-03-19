@@ -14,7 +14,7 @@
 
 **Precipitates** are an insoluble compound. This is a solid by either decreasing the solubility of a compound or reacting 2 salt solutions.
 
-![[Hetero_and_Homo_Mixtures.webp]]
+![Mixture Types](Hetero_and_Homo_Mixtures.webp)
 
 	
 ## Periodic Table & Atomic Structure
@@ -80,7 +80,7 @@ Metals are to the left of the periodic table while non-metals are to the right.
 
 **Standard Notation**
 You may be asked to write an element in "Standard Atomic Notation"
-![[Standard_Atomic_Notation.jpg]]
+![Standard Atomic Notation](Standard_Atomic_Notation.jpg)
 
 
 ## Physical & Chemical Properties & Changes
@@ -180,7 +180,7 @@ Sometimes, this is enough as both the Magnesium Ion and Oxide are both neutral a
 However, the goal of an ionic compound is that every atom has a full valence shell and is **neutral**. Ions are not neutral because they have a different number of protons and electrons. Therefore, they can form ionic bonds and transfer electrons to another ion that needs it. 
 
 **Visual Example:**
-![[Ionic_Bond.png]]
+![Ionic Bond](Ionic_Bond.png)
 
 
 A single ion can only give or take so much until it's neutral. 
@@ -526,7 +526,7 @@ Base + acid -> Salt + water
 
 ### pH Scale
 
-![[pH_Scale.jpg]]
+![pH Scale](pH_Scale.jpg)
 
 The pH scale is used as a measure of acidity to a solution.
 
@@ -552,9 +552,9 @@ Here are it's reactions with acids and bases.
 | Phenolphthalein   | Turns Pink | Colorless  | Colorless |
 
 **Phenolphthalein**
-![[Phenolphthalein.jpg]]
+![Phenolphthalein Colors](Phenolphthalein.jpg)
 **Note:** Water turned a cloudy grey in my experience but I could've been doing something wrong `¯\_(ツ)_/¯`
 
 **Bromothymol Blue**
-![[Bromothymol_Blue.png]]
+![Bromothymol Colors](Bromothymol_Blue.png)
 **NOTE:** In my experience, Bromothymol Blue does not turn green for neutral bases but who knows, maybe I was doing it wrong ``¯\_(ツ)_/¯``
