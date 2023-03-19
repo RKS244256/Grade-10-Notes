@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aff0013da3dc480f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,12 +151,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc7a08dd8a0e1083",
+  "active": "aff0013da3dc480f",
   "lastOpenFiles": [
+    "Science/Chemistry/Chemistry_SNC2D0.md",
+    "README.md",
     "Science/README.md",
     "Science/Chemistry/Standard_Atomic_Notation.jpg",
     "Science/Chemistry/Phenolphthalein.jpg",
@@ -171,7 +185,6 @@
     "Science/Chemistry/Ionic_Bond.png",
     "Science/Chemistry/Hetero_and_Homo_Mixtures.webp",
     "Science/Chemistry/Covalent_Compound_Structure.png",
-    "Science/Chemistry/Chemistry_SNC2D0.md",
     "Science/Chemistry",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",

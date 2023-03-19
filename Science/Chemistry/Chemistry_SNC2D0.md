@@ -470,12 +470,12 @@ Add coefficients as you see fit until you have the same amount of atoms on each 
 **Bases** are substances that release OH (Hydroxide) ions when dissolved in water (forming an aqueous solution).
 
 **Properties:**
-|         | Acid                 | Base (Alkali)               |
-| ------- | -------------------- | --------------------------- |
-| Feel    | Wet                  | Slippery                    |
-| Taste   | Sour                 | Bitter                      |
-| Formula | Begins with Hydrogen | Most contain hydroxide ions |
-| Example | Vinegar              | Baking Soda                            |
+| Property | Acid                 | Base (Alkali)               |
+| -------- | -------------------- | --------------------------- |
+| Feel     | Wet                  | Slippery                    |
+| Taste    | Sour                 | Bitter                      |
+| Formula  | Begins with Hydrogen | Most contain hydroxide ions |
+| Example  | Vinegar              | Baking Soda                 |
 
 ### Binary Acids
 
@@ -509,7 +509,7 @@ Phosphoric Acid (H<sub>3</sub>PO<sub>4(aq)</sub>)
 
 Bases either contain OH (Hydroxide) or HCO<sub>3</sub> (Bicarbonate) and behave like bases whether in a solution or not. Therefore, the aqueous symbol is not needed. 
 
-### Naming
+#### Naming
 
 There's no naming scheme for bases, just name them like normal :P
 
@@ -524,7 +524,7 @@ When a base and acid are mixed, they produce salt and water.
 
 Base + acid -> Salt + water
 
-#### pH Scale
+### pH Scale
 
 ![[pH_Scale.jpg]]
 
