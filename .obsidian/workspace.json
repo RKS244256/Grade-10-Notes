@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Science/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Science/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Science/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Science/README.md"
               }
             }
           },
@@ -173,17 +173,17 @@
   "active": "aff0013da3dc480f",
   "lastOpenFiles": [
     "Science/Chemistry/Chemistry_SNC2D0.md",
-    "README.md",
-    "Science/README.md",
+    "Science/Chemistry/Hetero_and_Homo_Mixtures.webp",
+    "Science/Chemistry/Lewis_Dot_Diagram.jpg",
+    "Science/Chemistry/Ionic_Compound_Structure.png",
     "Science/Chemistry/Standard_Atomic_Notation.jpg",
+    "Science/README.md",
+    "README.md",
     "Science/Chemistry/Phenolphthalein.jpg",
     "Science/Chemistry/pH_Scale.jpg",
     "Science/Chemistry/Periodic_Table.png",
     "Science/Chemistry/Lewis_Dot_Diagram_Ion.jpg",
-    "Science/Chemistry/Lewis_Dot_Diagram.jpg",
-    "Science/Chemistry/Ionic_Compound_Structure.png",
     "Science/Chemistry/Ionic_Bond.png",
-    "Science/Chemistry/Hetero_and_Homo_Mixtures.webp",
     "Science/Chemistry/Covalent_Compound_Structure.png",
     "Science/Chemistry",
     "Science/Chemistry_SNC2D0.md",
