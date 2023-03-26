@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b25eb2d60633be",
+        "id": "763a61de3c47af9c",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7a08dd8a0e1083",
+            "id": "549f6b09016dc2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff0013da3dc480f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
+                "file": "Science/Biology/Biology_SNC2D0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
+                "file": "Science/Biology/Biology_SNC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md",
+                "file": "Science/Biology/Biology_SNC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Chemistry/Chemistry_SNC2D0.md"
+                "file": "Science/Biology/Biology_SNC2D0.md"
               }
             }
           },
@@ -155,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,21 +158,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aff0013da3dc480f",
+  "active": "549f6b09016dc2ad",
   "lastOpenFiles": [
-    "Science/README.md",
+    "Science/Biology/Plant-Cell2.png",
+    "Science/Biology/Animal-Cell2.png",
+    "Science/Biology/Plant-Cell1.png",
+    "Science/Biology/Animal-Cell1.png",
+    "Pasted image 20230326172921.png",
+    "Science/Biology/Prokaryote.png",
+    "Science/Biology/Eukaryote.png",
+    "Science/Biology/Prokaryote-Eukaryote.jpg",
+    "Prokaryotes-Eukaryotes.jpg.md",
+    "Science/Biology/Biology_SNC2D0.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
+    "Science/Biology/Prokaryote-Eukaryote.jpg.crdownload",
+    "Science/Biology",
+    "Biology/Untitled.md",
+    "Science/README.md",
     "Science/Chemistry/Hetero_and_Homo_Mixtures.webp",
     "Science/Chemistry/Lewis_Dot_Diagram.jpg",
     "Science/Chemistry/Ionic_Compound_Structure.png",
-    "Science/Chemistry/Standard_Atomic_Notation.jpg",
     "README.md",
-    "Science/Chemistry/Phenolphthalein.jpg",
-    "Science/Chemistry/pH_Scale.jpg",
-    "Science/Chemistry/Periodic_Table.png",
-    "Science/Chemistry/Lewis_Dot_Diagram_Ion.jpg",
-    "Science/Chemistry/Ionic_Bond.png",
-    "Science/Chemistry/Covalent_Compound_Structure.png",
     "Science/Chemistry",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",

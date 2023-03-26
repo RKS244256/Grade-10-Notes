@@ -89,7 +89,7 @@ You may be asked to write an element in "Standard Atomic Notation"
 
 **Chemical Properties** are properties based on how they react with other substances. (Eg. combustibility, stablility, reactivity)
 
-During **Physical Changes**, the particles involved remain intact. No checmical bonds are broken and no new bonds are made. No new substances are formed. Therefore, all properties stay the same. (Eg. Water evaporating)
+During **Physical Changes**, the particles involved remain intact. No chemical bonds are broken and no new bonds are made. No new substances are formed. Therefore, all properties stay the same. (Eg. Water evaporating)
 
 In **Chemical Changes**, chemical bonds are broken or formed. The particles produced are different in their arrangements of atoms and therefore have different physical and chemical properties. New substances are formed. (Eg. Electrolysis)
 
@@ -373,6 +373,7 @@ The reason ionic compounds by themselves are not conductive is because the ions 
 If you take a hammer and strike a large crystal, you would end up using so much energy that the crystal doesn't break in one spot and instead shatters.
 
 **Covalent compounds** are soft and squishy relative to ionic compounds as the molecules can move around easily because of the weak bonds between them. This makes them generally more flexible.
+
 ## Chemical Reactions & Writing Equations
 
 ### Definitions
@@ -414,7 +415,7 @@ Write the element's symbols / compound formulas. You will also need to add the s
 | State   | Symbol          | Example                      |
 | ------- | --------------- | ---------------------------- |
 | Solid   | <sub>(s)</sub>  | Al<sub>(s)</sub>             |
-| Liquid  | <sub>(l)</sub>  | H<sub>2</sub>O<sub>(s)</sub> |
+| Liquid  | <sub>(l)</sub>  | H<sub>2</sub>O<sub>(l)</sub> |
 | Gas     | <sub>(g)</sub>  | H<sub>2(g)</sub>             |
 | Aqueous | <sub>(aq)</sub> | CuSO<sub>4(aq)</sub>         |
 
