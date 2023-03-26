@@ -11,9 +11,11 @@
             "id": "549f6b09016dc2ad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Science/Biology/Prokaryote.png"
+                "file": "Science/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Prokaryote.png",
+                "file": "Science/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Biology/Prokaryote.png",
+                "file": "Science/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Biology/Prokaryote.png"
+                "file": "Science/README.md"
               }
             }
           },
@@ -158,13 +160,13 @@
   },
   "active": "549f6b09016dc2ad",
   "lastOpenFiles": [
+    "Science/Biology/Prokaryote.png",
     "Science/Biology/Biology_SNC2D0.md",
     "Science/Biology/Plant-Cell2.png",
     "Science/Biology/Animal-Cell2.png",
     "Science/Biology/Plant-Cell1.png",
     "Science/Biology/Animal-Cell1.png",
     "Pasted image 20230326172921.png",
-    "Science/Biology/Prokaryote.png",
     "Science/Biology/Eukaryote.png",
     "Science/Biology/Prokaryote-Eukaryote.jpg",
     "Prokaryotes-Eukaryotes.jpg.md",
