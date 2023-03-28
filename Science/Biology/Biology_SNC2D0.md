@@ -57,10 +57,12 @@ All cells perform certain basic activities to stay alive. These activities are p
 **Plant Cell**
 ![Plant Cell 1](Plant-Cell1.png)
 ![Plant Cell 2](Plant-Cell2.png)
+![2D Plant Cell](Plant-2d.jpg)
 
 **Animal Cell**
 ![Animal Cell 1](Animal-Cell1.png)
 ![Animal Cell 2](Animal-Cell2.png)
+![2D Animal Cell](Animal-2d.jpg)
 
 ### Organelle List
 | Organelle                 | Function                                                                                                                                                                                   |
@@ -74,7 +76,7 @@ All cells perform certain basic activities to stay alive. These activities are p
 | Ribosomes                 | Site of protein synthesis.                                                                                                                                                                 |
 | Endoplasmic Reticulum     | Network of tubes which extend from the **nucleus** to **cell membrane**. It transports protein throughout the cell.                                                                        |
 | Cell Wall (Plant Only)    | Rigid, porous structure which provides support and protection for the cell.                                                                                                                |
-| Vacuole (Plant Only)      | Fluid-filled sacs which remain turgor pressure of plant cells.                                                                                                                             |
+| Vacuole (Plant Only)      | 1 Large vacuole to maintain turgor pressure of cell.                                                                                                                             |
 | Chloroplasts (Plant Only) | Absorbs light and converts it to glucose and O<sub>2</sub>. Contains chlorophyll.                                                                                                          |
 | Vesicles                  | Membrane covered sac which store/transport materials inside the cell. Help materials cross the cell membrane in/out of the cell.                                                           |
 | Cytoskeleton              | Filament & tubules that provide a framework which maintains the cell structure. Provides tracks along which vesicles and organelles can move.                                              |
