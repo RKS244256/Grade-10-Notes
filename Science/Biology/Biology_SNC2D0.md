@@ -65,19 +65,45 @@ All cells perform certain basic activities to stay alive. These activities are p
 ![2D Animal Cell](Animal-2d.jpg)
 
 ### Organelle List
-| Organelle                 | Function                                                                                                                                                                                   |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cytoplasm                 | Fluid surrounding organelles inside the cell membrane. It's mostly water & stores substances the cell needs. It's where many chemical reactions take place.                                |
-| Cell Membrane             | A flexible double-layered support structure surrounding the cell. Allows substances in and out of the cell.                                                                                |
-| Nucleus                   | A spherical structure in the cell. Where genetic information which controls all activities is stored in chromosomes.                                                                       |
-| Mitochrondria             | The powerhouse of the cell. (╰（‵□′）╯) It makes energy available to the cell via cellular respiration (needs O<sub>2</sub>). Enzymes in the **mitochondria** convert glucose into energy. |
-| Golgi Bodies              | Collects and processes materials to be removed from the cell. Produces mucus.                                                                                                              |
-| Vacuoles                  | Sacs for storage, maintaining fluid pressure and removing substances from cell.                                                                                                            |
-| Ribosomes                 | Site of protein synthesis.                                                                                                                                                                 |
-| Endoplasmic Reticulum     | Network of tubes which extend from the **nucleus** to **cell membrane**. It transports protein throughout the cell.                                                                        |
-| Cell Wall (Plant Only)    | Rigid, porous structure which provides support and protection for the cell.                                                                                                                |
-| Vacuole (Plant Only)      | 1 Large vacuole to maintain turgor pressure of cell.                                                                                                                             |
-| Chloroplasts (Plant Only) | Absorbs light and converts it to glucose and O<sub>2</sub>. Contains chlorophyll.                                                                                                          |
-| Vesicles                  | Membrane covered sac which store/transport materials inside the cell. Help materials cross the cell membrane in/out of the cell.                                                           |
-| Cytoskeleton              | Filament & tubules that provide a framework which maintains the cell structure. Provides tracks along which vesicles and organelles can move.                                              |
-| Lysosomes                 | Organelles within the cytoplasm which break down waste products, fats, protein, carbs that are no longer useful.                                                                                                                                                                                           |
+| Organelle                 | Function                                                                                                                                                                                      |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cytoplasm                 | Fluid surrounding organelles inside the cell membrane. It's mostly water & stores substances the cell needs. It's where many chemical reactions take place.                                   |
+| Cell Membrane             | A flexible double-layered support structure surrounding the cell. Allows substances in and out of the cell.                                                                                   |
+| Nucleus                   | A spherical structure in the cell. Where genetic information which controls all activities is stored in chromosomes.                                                                          |
+| Mitochrondria             | The powerhouse of the cell. (╰（‵□′）╯) It makes energy available to the cell via cellular respiration (needs O<sub>2</sub>). Enzymes in the **mitochondria** convert glucose into energy.    |
+| Golgi Bodies              | Collects and processes materials to be removed from the cell and folding/adding to proteins to be used for other organelles. Produces mucus.                                                                                                                 |
+| Vacuoles                  | Sacs for storage, maintaining fluid pressure and removing substances from cell.                                                                                                               |
+| Ribosomes                 | Synthesizes proteins.                                                                                                                                                                    |
+| Endoplasmic Reticulum     | Network of tubes which extend from the **nucleus** to **cell membrane**. It transports protein throughout the cell. Smooth ER makes lipids while the Rough ER helps make and package proteins |
+| Cell Wall (Plant Only)    | Rigid, porous structure which provides support and protection for the cell.                                                                                                                   |
+| Vacuole (Plant Only)      | 1 Large vacuole to maintain turgor pressure of cell.                                                                                                                                          |
+| Chloroplasts (Plant Only) | Absorbs light and converts it to glucose and O<sub>2</sub>. Contains chlorophyll.                                                                                                             |
+| Vesicles                  | Membrane covered sac which store/transport materials inside the cell. Help materials cross the cell membrane in/out of the cell.                                                              |
+| Cytoskeleton              | Filament & tubules that provide a framework which maintains the cell structure. Provides tracks along which vesicles and organelles can move.                                                 |
+| Lysosomes                 | Organelles within the cytoplasm which break down waste products, fats, protein, carbs that are no longer useful.                                                                              |
+
+## Microscopes
+
+### Parts Of A Microscope
+
+![Compound Microscope](Microscope.png)
+
+| Part                   | Function                                                                |
+| ---------------------- | ----------------------------------------------------------------------- |
+| Stage                  | Used to hold slide. Also allows light through for specimen to be viewed |
+| Stage Clips            | Used to hold slide in place on stage                                    |
+| Diaphragm              | Used to control amount of light the goes through the specimen           |
+| Objective Lenses       | Used to magnify the specimen. Usually 3 (Low, Medium, High)             |
+| Revolving Nose Piece   | Used to rotate between lenses                                           |
+| Eyepiece (Ocular Lens) | Used to view specimen                                                   |
+| Coarse Adjustment      | Used to focus on specimen. Only use with low power lens.                |
+| Fine Adjustment        | Used for finer focusing. Only use with high/med power lenses.                                                                        |
+
+### Magnification
+
+**Magnification** = Lens Power X Ocular Lens Power
+| Power | Lens Power | Ocular Lens Power | Total Magnification |
+| ----- | ---------- | ----------------- | ------------------- |
+| Low   | 4X         | 10X               | 40X                 |
+| Med   | 10X        | 10X               | 100X                |
+| High  | 40X        | 10X               | 400X                    |
