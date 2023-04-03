@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,29 +160,35 @@
   },
   "active": "549f6b09016dc2ad",
   "lastOpenFiles": [
-    "Science/Biology/Microscope.png",
     "Science/README.md",
-    "Science/Biology/Prokaryote.png",
     "Science/Biology/Biology_SNC2D0.md",
-    "Science/Biology/Plant-Cell2.png",
-    "Science/Biology/Animal-Cell2.png",
-    "Science/Biology/Plant-Cell1.png",
-    "Science/Biology/Animal-Cell1.png",
-    "Pasted image 20230326172921.png",
-    "Science/Biology/Eukaryote.png",
-    "Science/Biology/Prokaryote-Eukaryote.jpg",
+    "Science/Biology/Cytokinesis.png",
+    "Science/Biology/Cytokinesis.png.crdownload",
+    "Science/Biology/Telophase.png",
+    "Science/Biology/Telophase.png.crdownload",
+    "Untitled.md",
+    "Science/Biology/Anaphase.png",
+    "Science/Biology/Anaphase.png.crdownload",
+    "Science/Biology/Metaphase.png",
+    "Science/Biology/Metaphase.png.crdownload",
+    "Science/Biology/Spindle.png",
+    "Science/Biology/Spindle.png.crdownload",
+    "Science/Biology/Late_Prophase.png",
+    "Science/Biology/Late_Prophase.png.crdownload",
+    "Science/Biology/Early_Prophase.png",
+    "Science/Biology/Interphase.webp",
+    "Science/Biology/Interphase.webp.crdownload",
+    "Science/Biology/Cell_Cycle_Diagram.jpg",
+    "Science/Biology/Cell_Cycle_Diagram.jpg.crdownload",
+    "Science/Biology/Microscope.png",
     "Prokaryotes-Eukaryotes.jpg.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
     "Science/Biology/Prokaryote-Eukaryote.jpg.crdownload",
     "Science/Biology",
     "Biology/Untitled.md",
-    "Science/Chemistry/Hetero_and_Homo_Mixtures.webp",
-    "Science/Chemistry/Lewis_Dot_Diagram.jpg",
     "README.md",
-    "Science/Chemistry",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",
-    "Science",
     "Bohr.md",
     "Untitled.canvas",
     "2023-03-16.md"
