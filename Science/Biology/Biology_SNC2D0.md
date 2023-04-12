@@ -114,7 +114,7 @@ The cell cycle is a series of events which take place in a cell as it grows & di
 
 ![Cell Cycle](Cell_Cycle_Diagram.jpg)
 
-In a eukaryotic cell, the cell cycle is divided into 2 major phases. The **Interphase** & **Mitosis**.
+In a eukaryotic cell, the cell cycle is divided into 2 major phases. The **Interphase** & **Mitotic**.
 
 ### Why divide?
 As a cell gets bigger, it's harder to transport materials and waste around the cell. Cells need to transport these materials and waste in and out of the cell quickly unless it wants to die. If the cell becomes larger, it becomes inefficient and can poison itself as a result. Therefore, it divides.
@@ -164,11 +164,11 @@ In **Metaphase**, the spindle has captured all the chromosomes and lined them at
 
 ##### Anaphase
 
-During **Anaphase**, the sister chrmatids separate from each other and are pulled towards the opposite ends of the cell. All these processes are driven by motor proties (molecular machines that can "walk" along microtubule tracks and carry a cargo). In mitosis, motor proteins carry chromosomes or microtubles as they "walk".
+During **Anaphase**, the sister chromatids separate from each other and are pulled towards the opposite ends of the cell. All these processes are driven by motor proties (molecular machines that can "walk" along microtubule tracks and carry a cargo). In mitosis, motor proteins carry chromosomes or microtubles as they "walk".
 ![Anaphase](Anaphase.png)
 ##### Telophase
 
-In the **Telophase**, the cell is nearly done dividing & starts to re-establish its normal strucutres as **Cytokinesis** takes place. The mitotic spindle breaks down into its building blocks. 2 nuclei form for each set of chromosomes. The nucleoli and nuclear membranes reappear. The chromosomes begin to decondense and return to their normal form.
+In the **Telophase**, the cell is nearly done dividing & starts to re-establish its normal structures as **Cytokinesis** takes place. The mitotic spindle breaks down into its building blocks. 2 nuclei form for each set of chromosomes. The nucleoli and nuclear membranes reappear. The chromosomes begin to decondense and return to their normal form.
 ![Telophase](Telophase.png)
 #### Cytokinesis
 
@@ -181,3 +181,40 @@ Plant cells cannot be divided like this as they have a cell wall. Instead, a str
 ![Cytokinesis](Cytokinesis.png)
 
 The cycle is thus completed and the 2 daughter cells will continue the cycle.
+
+## Cancer
+**Cancer** is a disease in which mutated cells (mistakes in their DNA) divide uncontrollably. These cells ignore cell-cycle checkpoints.
+
+### Tumors
+Cancerous cells divide repeatedly and form clumps of cells called tumors. Tumors don't perform normal functions an potentially damage surrounding tissue. They can either be **benign** (non spreading) or **malignant** (spreading).
+
+#### Metastasis
+When a **primary tumor** develops and recruits blood vessels. Cancerous cells then break off and enter blood vessels. These cells then spread to other areas in the body.
+
+#### Melanoma (ABCD Rule)
+How to tell the difference between melanoma (skin cancer) & a benign mole:
+- **A**symmetric - The mole is asymmetric
+- **B**order irregularity - The border is not smooth or consistent.
+- Multiple **C**olours - Mole is multiple colours.
+- **D**iameter > 6 - The mole is larger than a pencil eraser.
+
+### Causes of Cancer
+| Cause                | Comments                   |
+| -------------------- | -------------------------- |
+| Genetics             | Genes inherited by parents |
+| Chemical Carcinogens | Example: Tobacco           |
+| Radiation            | UV rays from the sun       |
+| Viruses              | Example: HPV               |
+| Spontaneous Mutation | Completely random mutation of cells. God really hates you and life fucked you in the ass.                           |
+
+Most cancers take years to develop and are caused by multiple factors.
+
+### How is cancer treated
+**Radiation**: Cancerous cells and tumors are killed using high energy x-rays, gamma rays, etc
+**Chemotherapy**: Chemicals target rapidly dividing cells
+
+### How to not get cancer
+- Eat healthy
+- Don't smoke
+- Regular check-ups and health evaluations
+- Wear sunscreen to reduce exposure to UV radiation

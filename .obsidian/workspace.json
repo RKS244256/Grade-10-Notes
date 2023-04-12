@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "763a61de3c47af9c",
+        "id": "1361bedd4e22f206",
         "type": "tabs",
         "children": [
           {
-            "id": "549f6b09016dc2ad",
+            "id": "0f6b7a6d3eecb0d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +151,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "549f6b09016dc2ad",
+  "active": "0f6b7a6d3eecb0d9",
   "lastOpenFiles": [
-    "Science/README.md",
     "Science/Biology/Biology_SNC2D0.md",
+    "README.md",
+    "Science/README.md",
     "Science/Biology/Cytokinesis.png",
     "Science/Biology/Cytokinesis.png.crdownload",
     "Science/Biology/Telophase.png",
@@ -186,7 +180,6 @@
     "Science/Biology/Prokaryote-Eukaryote.jpg.crdownload",
     "Science/Biology",
     "Biology/Untitled.md",
-    "README.md",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",
     "Bohr.md",
