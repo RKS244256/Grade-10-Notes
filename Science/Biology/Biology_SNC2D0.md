@@ -325,3 +325,196 @@ Contain chloroplasts which collect energy from the sun to make sugar for the pla
 #### Guard Cells
 
 Controls water loss from the leaves of plants.
+
+## Levels Of Organization
+
+The levels or organization is a hierarchy with the most complex at the top and least complex at the bottom.
+| Levels of Organization |              |
+| ---------------------- | ------------ |
+| Organism               | Most Complex |
+| Organ System           |              |
+| Organ                  |              |
+| Tissue                 |              |
+| Cell                   | Simplest             |
+
+## Tissues
+
+**Tissues** are a group of similar cells which perform a particular function.
+
+### Epithelial Tissue
+
+**Epithelial** tissues are thin sheets of tightly packed cells that cover body surfaces and line internal organs and body cavities. 
+
+#### Function
+
+- Provides protection from dehydration
+- Low-friction surfaces
+
+#### Examples
+
+- Skin
+- Lining of digestive system
+
+### Connective Tissue
+
+Various types of cells and fibres held together by a liquid, solid or gel called a matrix.
+
+#### Functions
+
+- Support
+- Insulation
+
+#### Examples
+
+- Bone
+- Tendons
+- Blood
+- Fat
+
+### Muscle Tissue
+
+**Muscle tissue** are bundles of long cells called muscle fibres which have specialized proteins which can contract and relax which enables movement. They can be smooth or **striated** (has lines, bands or grooves)
+
+#### Function
+
+- Allows movement of body parts
+
+#### Examples
+
+- Heart Muscles
+- Muscles which make our bones move
+- Muscles surrounding the digestive tract
+
+### Nerve Tissue
+
+Long thin cells with fine branches at the ends which transmit electrical signals from one part of the body to another.
+
+#### Function
+
+- Senses
+- Communication within the body
+- Coodinating body functions
+
+#### Examples
+
+- Brains
+- Nerves throughout our bodies
+
+## Organs
+
+Organs are structures made of different tissues which work together to perform a complex body function.
+
+### Examples
+
+- Stomach
+- Heart
+- Lungs
+
+## Organ Systems
+
+A group of one or more organs/structures that work together to perform a major & vital body function.
+
+There are 11 major systems:
+| System                | Function                                             |
+| --------------------- | ---------------------------------------------------- |
+| Digestive             | Takes in & breaks down food. Disposes of solid waste |
+| Circulatory           | Transports blood, nutrients & gases                  |
+| Nervous               | Senses and controls responses to the environment     |
+| Respiratory           | Gas exchange system                                  |
+| Skeletal              | Supports and protects soft tissues                   |
+| Muscular              | Works with the skeletal system to enable movement    |
+| Immune                | Defends against infections                           |
+| Reproductive (ʘ ͟ʖ ʘ) | Produces offspring                                   |
+| Endocrine             | Makes hormanes & keeps systems in balance            |
+| Excretory             | Disposes liquid waste                                |
+| Integumentary         | Protective barrier                                                     |
+
+### Digestive System
+
+![Digestive System Organ](Digestive_System_Organs.png)
+
+#### Functions
+
+- Taking in food
+- Breaking down food
+- Digesting food
+- Ejecting waste from the body
+
+#### Digestive Tract
+
+The digestive tract is long tube with 2 openings.
+
+In humans, the tube consists of:
+- Mouth
+- Esophagus
+- Stomach
+- Small intestine
+- Large intesting
+- Anus
+
+With a few accessory organs:
+- Liver
+- Gall Bladder
+- Pancreas
+These accessory organs secrete chemicals which help digest food.
+
+##### Tissues In The Digestive Tract
+
+The entire tract is lined with **epithelial tissues**. On type of epithelial cell is called a **Goblet Cell** (a cell which excretes mucus). The mucus protects the digestive tract from enzyms and allows materials to pass smoothly along the digestive tract. 
+
+The tract also includes layers of muscles (to allow food to move through the tract), connective tissue for support, and nerve tissue to communicate with the rest of the body to notify you when you're hungry, full, etc.
+
+##### Mouth
+
+The mouth breaks down food in 2 ways. **Mechanically** using your teeth and tongue & **Chemically** with the use of enzymes.
+
+##### Esophagus
+
+The **esophagus** is a muscular tube that connects the moth to the stomach. The muscles are a special type iof muscles called **smooth muscle tissues**. These muscles can contract and relax without conscious effort. It's movement is controlled by nerve tissue. 
+
+Food enters the mouth then the **pharynx** (a combined passageway for food and air) which then moves into the esophagus. Wavelike contractions called **peristalsis** moves food down to the stomach.
+
+##### Stomach
+
+Mechanical & chemical digestion occur here. The stomach churns and moves food around which breaks it down into smaller pieces. This is controlled by smooth muscle tissue. Chemically, the stomach lining cells secrete enzymes & HCl to break down food. The stomach has nerve cells which signal when we're full.
+
+##### Small Intestines
+
+The small intestine is lined with **goblet cells** which produce mucus, contain **capillaries** which connect the digestive system to the circulatory system, contain villi (tiny bumps) which increases the absorption of nutrients into the bloodstream. This is where most **chemical digestion** & absorption of nutrients takes place.
+
+Nutrients diffuse through the cell walls into the bloodstream.
+
+The small intestine is 6m long but is highly folded. It also has a small diameter.
+
+##### Large Intestines
+
+Like the small intestine, the large intestine is lined with goblet cells. It contains smooth muscles aswell.
+
+The large intestine is large in diameter but shorter in length (1.5m) compared to the small intestine.
+
+Water is reabsorbed from undigested food here and leads to the anus (ʘ ʖ̯ ʘ).
+
+##### Rectum
+
+The muscle that stores waste.
+
+##### Anus
+
+Ejects waste from the digestive system.
+
+##### Liver
+
+Makes bile and sends it to the Gall Bladder
+
+##### Bile
+
+Breaks down fat
+
+##### Gall Bladder
+
+Stores bile and secretes it to the small intestine as needed.
+
+##### Pancreas
+
+Produces insulin which regulates blood sugar. Too little or too much insulin will lead to diabetes.
+
