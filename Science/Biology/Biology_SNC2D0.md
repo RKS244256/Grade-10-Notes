@@ -218,3 +218,110 @@ Most cancers take years to develop and are caused by multiple factors.
 - Don't smoke
 - Regular check-ups and health evaluations
 - Wear sunscreen to reduce exposure to UV radiation
+
+## Stem Cells
+
+**Stems cells** are unspecialized cells. They can become many different kinds of cells.
+
+### Embryonic Stem Cells
+
+**Embryonic Stem Cells** are totipotent (they can develop into any type of cell) stem cells found in embryos.
+
+![Embryonic Stem Cells|500](Embryonic.png)
+
+### Adult (Tissue) Stem Cells
+
+Within a week of fertlization, the embryonic stem cells become differentiated. There are now tissue stem cells witch are **pluripotent** (they can only develop into some types of cells tat are in their stem cell niche).
+
+![Adult Stem Cells](Tissue_Stem_Cells.png)
+
+### Examples
+
+| Type Of Stem Cells     | What can they form                     |
+| ---------------------- | -------------------------------------- |
+| Body Tissue Stem Cells | Same kind of tissue (Liver, skin, etc) |
+| Bone Marrow            | Any blood cell                         |
+| Umbilical Cord Blood   | Bone, muscle, nerves, blood vessels                                       |
+
+### Benefits
+- Replacing damaged tissue
+- New treatments for cancer
+- New medical therapies (eg. treatment for spinal cord injuries)
+
+### Controversies
+Embryonic stem cells can be produced via fertility treaments & cloning. Some believe it's unethical to create cells which could develop into a human being.
+
+## Specialized Cells
+
+**Specialized Cells** have physical & chemical differences that allow them to perform one job very well.
+
+Lung tissue clels are different from brain cells which are different from intestinal cells and so on and so forth.
+
+### Specialized Calls - Animals
+
+#### Red Blood Cells
+
+- Contains hemoglobin that carries O<sub>2</sub> in the blood.
+- Smooth so they can pass through blood vessels easily
+
+#### White Blood Cells
+
+- Move like amoeba
+- Engulf invading bacteria to kill it and fight infection
+
+#### Muscle Cells
+
+- Arranged in bundles called muscle fibers
+- Controct and shortens causing bons to move
+
+![Muscles Fibers](Muscle_Fibers.jpg)
+
+#### Fat Cells
+
+- Stores chemical energy
+- Have large vacuoles which store fat molecules
+
+#### Skin Cells
+
+- Layers of cells which tightly cover the body
+- Protects cells inside and reduces water loss
+
+#### Nerve Cells
+
+- Long, thin, with many branches
+- Conduct electrical impulses to coordinate body activity
+
+#### Bone Cells
+
+- Collects Ca from food which is required for the growth and repair of bones
+- Builds boness are themselves which build up the skeleton
+-
+#### Sperm ( ͡° ͜ʖ ͡°) Cells
+- Carry DNA from male parent to join with the DNA of the female parent.
+- Hase a flagellum to allow movement
+
+### Specialized Cells - Plants
+
+#### Xylem Cells
+
+Moves water & minerals through the plant.
+
+#### Phloem Cells
+
+Move sugars through the plant.
+
+#### Ground Tissue Cells
+
+Storage of starch and energy for the plant.
+
+#### Epidermal Cells
+
+Protect the plant and facilitates water absorption from roots.
+
+#### Photosynthetic Cells
+
+Contain chloroplasts which collect energy from the sun to make sugar for the plant.
+
+#### Guard Cells
+
+Controls water loss from the leaves of plants.

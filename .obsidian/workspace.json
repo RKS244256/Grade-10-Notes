@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b9d698ec4035b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/1930/1930_CHC2D0.md",
+                "file": "Science/Biology/Biology_SNC2D0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/1930/1930_CHC2D0.md",
+                "file": "Science/Biology/Biology_SNC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/1930/1930_CHC2D0.md",
+                "file": "Science/Biology/Biology_SNC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/1930/1930_CHC2D0.md"
+                "file": "Science/Biology/Biology_SNC2D0.md"
               }
             }
           },
@@ -168,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +171,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b9d698ec4035b21",
+  "active": "c03c72c5e6675944",
   "lastOpenFiles": [
-    "History/1930/Business_Cycle.png",
+    "Science/Biology/Muscle_Fibers.jpg",
+    "Science/Biology/Muscle_Fibers.jpg.crdownload",
+    "Science/Biology/Tissue_Stem_Cells.png",
+    "Science/Biology/Embryonic.png",
+    "Pasted image 20230415175307.png",
+    "Pasted image 20230415175301.png",
     "History/README.md",
     "History/1930/1930_CHC2D0.md",
+    "History/1930/Business_Cycle.png",
+    "Science/README.md",
+    "README.md",
     "History/1930",
     "History/Untitled",
-    "README.md",
     "History",
     "Science/Biology/Biology_SNC2D0.md",
-    "Science/README.md",
     "Science/Biology/Cytokinesis.png",
     "Science/Biology/Cytokinesis.png.crdownload",
     "Science/Biology/Telophase.png",
@@ -205,13 +198,7 @@
     "Science/Biology/Metaphase.png.crdownload",
     "Science/Biology/Spindle.png",
     "Science/Biology/Spindle.png.crdownload",
-    "Science/Biology/Late_Prophase.png",
     "Science/Biology/Late_Prophase.png.crdownload",
-    "Science/Biology/Early_Prophase.png",
-    "Science/Biology/Interphase.webp",
-    "Science/Biology/Interphase.webp.crdownload",
-    "Science/Biology/Cell_Cycle_Diagram.jpg",
-    "Science/Biology/Microscope.png",
     "Prokaryotes-Eukaryotes.jpg.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
     "Biology/Untitled.md",
