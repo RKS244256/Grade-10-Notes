@@ -117,7 +117,7 @@ The cell cycle is a series of events which take place in a cell as it grows & di
 In a eukaryotic cell, the cell cycle is divided into 2 major phases. The **Interphase** & **Mitotic**.
 
 ### Why divide?
-As a cell gets bigger, it's harder to transport materials and waste around the cell. Cells need to transport these materials and waste in and out of the cell quickly unless it wants to die. If the cell becomes larger, it becomes inefficient and can poison itself as a result. Therefore, it divides.
+As a cell gets bigger, it's harder to transport materials & waste around the cell. Cells need to transport these materials & waste in & out of the cell quickly unless it wants to die. If the cell becomes larger, it becomes inefficient & can poison itself as a result. Therefore, it divides.
 
 ### Interphase
 
@@ -126,31 +126,31 @@ During **Interphase**, the cell grows & makes copies of its DNA. In order to fir
 There are checks throughout these phases to ensure that organelles grow properly, DNA is copied properly, the cell has grown enough, etc.
 
 #### G<sub>1</sub> Phase
-During the **G<sub>1</sub> phase** (aka the first gap phase), the cell grows larger, copies organelles and kaes the molecular building blocks it requires in the later steps.
+During the **G<sub>1</sub> phase** (aka the first gap phase), the cell grows larger, copies organelles & kaes the molecular building blocks it requires in the later steps.
 
 #### S Phase
-In the **S phase**, the DNA in the cell's nucleus is copied and synthesized. It also duplicates a microtubule-organizing structure called the **centrosome**. The centrosomes which help separate DNA during **Mitosis**. 
+In the **S phase**, the DNA in the cell's nucleus is copied & synthesized. It also duplicates a microtubule-organizing structure called the **centrosome**. The centrosomes which help separate DNA during **Mitosis**. 
 
 #### G<sub>2</sub> Phase
-During the **G<sub>2</sub> Phase** (aka the second gap phase), the cell grows more, makes organelles, and begins to reorganize its contents for mitosis. This phase ends when mitosis begins.
+During the **G<sub>2</sub> Phase** (aka the second gap phase), the cell grows more, makes organelles, & begins to reorganize its contents for mitosis. This phase ends when mitosis begins.
 
 ![Interphase](Interphase.webp)
 
 ### Mitotic Phase
 
-During the **Mitotic Phase** (aka the "M" phase), the cell divides its copied DNA and cytoplasm to make 2 new cells. The mitotic phase involves 2 devision-related processes: **Mitosis** & **Cytokinesis**.
+During the **Mitotic Phase** (aka the "M" phase), the cell divides its copied DNA & cytoplasm to make 2 new cells. The mitotic phase involves 2 devision-related processes: **Mitosis** & **Cytokinesis**.
 
 #### Mitosis
 
-In **Mitosis**, the DNA in the cell condenses into visible chromosomes and is pulled apart by the **mitotic spindle** ( a specialized structure made of microtubules). Mitosis takes place in 4 phases: **Prophase**, **Metaphase**, **Anaphase** & **Telophase**.
+In **Mitosis**, the DNA in the cell condenses into visible chromosomes & is pulled apart by the **mitotic spindle** ( a specialized structure made of microtubules). Mitosis takes place in 4 phases: **Prophase**, **Metaphase**, **Anaphase** & **Telophase**.
 
 The goal of mitosis is to ensure each daughter cell gets a perfect set of chromosomes. Cells that don't have enough or too many chromsomes don't function well. So when cells undergo mitosis, they split their chromosomes into their daughter cells equally in an organized series of steps.
 
 ##### Prophase
-In the early prophase, the cell starts to break down some structures and build up others. This sets the stage for division of the chromosomes. Chromosomes will start to condense which makes them easier to pull apart while also making them visible. The **mitotic spindle** begins to form. The spindle is made of microtubles. It's job to organize chromosomes and move them around during mitosis. The spindle grows between the centrosomes as they move apart. The nucleolus disappears. 
+In the early prophase, the cell starts to break down some structures & build up others. This sets the stage for division of the chromosomes. Chromosomes will start to condense which makes them easier to pull apart while also making them visible. The **mitotic spindle** begins to form. The spindle is made of microtubles. It's job to organize chromosomes & move them around during mitosis. The spindle grows between the centrosomes as they move apart. The nucleolus disappears. 
 ![Early Prophase](Early_Prophase.png)
 
-In the late prophase, the mitotic spindle begins to capture and organize the chromosomes. THe chromosomes become even more condensed. The nuclear envelope breaks down and the mitotic spindle grows more. The microtublues start to capture chromosomes.
+In the late prophase, the mitotic spindle begins to capture & organize the chromosomes. THe chromosomes become even more condensed. The nuclear envelope breaks down & the mitotic spindle grows more. The microtublues start to capture chromosomes.
 
 ![Late Prophase](Late_Prophase.png)
 Microtubules bind to chromosomes at the **kinetochore** (a patch of protein found on the centromere of each chromatid). **Centromeres** are the regions of DNA where sister chromatides are most tightly connected.
@@ -158,38 +158,38 @@ Microtubules bind to chromosomes at the **kinetochore** (a patch of protein foun
 
 ##### Metaphase
 
-In **Metaphase**, the spindle has captured all the chromosomes and lined them at the equator of the cell. Before moving to the **Anaphase**, the cell will check to makes sure that all the chromosomes are where they should be at the equator. This is called the **spindle chackpoint** & helps ensure that the chromotids will split evenly between the daughter cells when they separate. If this check is not fulfilled, the cell will simply halt the cycle until it can be corrected.
+In **Metaphase**, the spindle has captured all the chromosomes & lined them at the equator of the cell. Before moving to the **Anaphase**, the cell will check to makes sure that all the chromosomes are where they should be at the equator. This is called the **spindle chackpoint** & helps ensure that the chromotids will split evenly between the daughter cells when they separate. If this check is not fulfilled, the cell will simply halt the cycle until it can be corrected.
 
 ![Metaphase](Metaphase.png)
 
 ##### Anaphase
 
-During **Anaphase**, the sister chromatids separate from each other and are pulled towards the opposite ends of the cell. All these processes are driven by motor proties (molecular machines that can "walk" along microtubule tracks and carry a cargo). In mitosis, motor proteins carry chromosomes or microtubles as they "walk".
+During **Anaphase**, the sister chromatids separate from each other & are pulled towards the opposite ends of the cell. All these processes are driven by motor proties (molecular machines that can "walk" along microtubule tracks & carry a cargo). In mitosis, motor proteins carry chromosomes or microtubles as they "walk".
 ![Anaphase](Anaphase.png)
 ##### Telophase
 
-In the **Telophase**, the cell is nearly done dividing & starts to re-establish its normal structures as **Cytokinesis** takes place. The mitotic spindle breaks down into its building blocks. 2 nuclei form for each set of chromosomes. The nucleoli and nuclear membranes reappear. The chromosomes begin to decondense and return to their normal form.
+In the **Telophase**, the cell is nearly done dividing & starts to re-establish its normal structures as **Cytokinesis** takes place. The mitotic spindle breaks down into its building blocks. 2 nuclei form for each set of chromosomes. The nucleoli & nuclear membranes reappear. The chromosomes begin to decondense & return to their normal form.
 ![Telophase](Telophase.png)
 #### Cytokinesis
 
-**Cytokinesis** is the division of the cytoplasm in order to form 2 new cells. It overlaps with the final stages of mitosis. It either starts in the **Anaphase** or **Telophase** depnding on the cell and will finish shortly after the telophase. This happens differently depending on whether the cell is a plant or animal cell.
+**Cytokinesis** is the division of the cytoplasm in order to form 2 new cells. It overlaps with the final stages of mitosis. It either starts in the **Anaphase** or **Telophase** depnding on the cell & will finish shortly after the telophase. This happens differently depending on whether the cell is a plant or animal cell.
 
-In animal cells, the cytokinesis pinches the cell in 2 like a drawstring bag. The "drawstring" is a band of filaments made of protein called actin and the crease is known as the cleavage furrow.
+In animal cells, the cytokinesis pinches the cell in 2 like a drawstring bag. The "drawstring" is a band of filaments made of protein called actin & the crease is known as the cleavage furrow.
 
 Plant cells cannot be divided like this as they have a cell wall. Instead, a structure called the cell plate forms down the middle of the cell which splits & separates the 2 daughter cells.
 
 ![Cytokinesis](Cytokinesis.png)
 
-The cycle is thus completed and the 2 daughter cells will continue the cycle.
+The cycle is thus completed & the 2 daughter cells will continue the cycle.
 
 ## Cancer
 **Cancer** is a disease in which mutated cells (mistakes in their DNA) divide uncontrollably. These cells ignore cell-cycle checkpoints.
 
 ### Tumors
-Cancerous cells divide repeatedly and form clumps of cells called tumors. Tumors don't perform normal functions an potentially damage surrounding tissue. They can either be **benign** (non spreading) or **malignant** (spreading).
+Cancerous cells divide repeatedly & form clumps of cells called tumors. Tumors don't perform normal functions an potentially damage surrounding tissue. They can either be **benign** (non spreading) or **malignant** (spreading).
 
 #### Metastasis
-When a **primary tumor** develops and recruits blood vessels. Cancerous cells then break off and enter blood vessels. These cells then spread to other areas in the body.
+When a **primary tumor** develops & recruits blood vessels. Cancerous cells then break off & enter blood vessels. These cells then spread to other areas in the body.
 
 #### Melanoma (ABCD Rule)
 How to tell the difference between melanoma (skin cancer) & a benign mole:
@@ -205,18 +205,18 @@ How to tell the difference between melanoma (skin cancer) & a benign mole:
 | Chemical Carcinogens | Example: Tobacco           |
 | Radiation            | UV rays from the sun       |
 | Viruses              | Example: HPV               |
-| Spontaneous Mutation | Completely random mutation of cells. God really hates you and life fucked you in the ass.                           |
+| Spontaneous Mutation | Completely random mutation of cells. God really hates you & life fucked you in the ass.                           |
 
-Most cancers take years to develop and are caused by multiple factors.
+Most cancers take years to develop & are caused by multiple factors.
 
 ### How is cancer treated
-**Radiation**: Cancerous cells and tumors are killed using high energy x-rays, gamma rays, etc
+**Radiation**: Cancerous cells & tumors are killed using high energy x-rays, gamma rays, etc
 **Chemotherapy**: Chemicals target rapidly dividing cells
 
 ### How to not get cancer
 - Eat healthy
 - Don't smoke
-- Regular check-ups and health evaluations
+- Regular check-ups & health evaluations
 - Wear sunscreen to reduce exposure to UV radiation
 
 ## Stem Cells
@@ -255,7 +255,7 @@ Embryonic stem cells can be produced via fertility treaments & cloning. Some bel
 
 **Specialized Cells** have physical & chemical differences that allow them to perform one job very well.
 
-Lung tissue clels are different from brain cells which are different from intestinal cells and so on and so forth.
+Lung tissue clels are different from brain cells which are different from intestinal cells & so on & so forth.
 
 ### Specialized Calls - Animals
 
@@ -267,12 +267,12 @@ Lung tissue clels are different from brain cells which are different from intest
 #### White Blood Cells
 
 - Move like amoeba
-- Engulf invading bacteria to kill it and fight infection
+- Engulf invading bacteria to kill it & fight infection
 
 #### Muscle Cells
 
 - Arranged in bundles called muscle fibers
-- Controct and shortens causing bons to move
+- Controct & shortens causing bons to move
 
 ![Muscles Fibers](Muscle_Fibers.jpg)
 
@@ -284,7 +284,7 @@ Lung tissue clels are different from brain cells which are different from intest
 #### Skin Cells
 
 - Layers of cells which tightly cover the body
-- Protects cells inside and reduces water loss
+- Protects cells inside & reduces water loss
 
 #### Nerve Cells
 
@@ -293,7 +293,7 @@ Lung tissue clels are different from brain cells which are different from intest
 
 #### Bone Cells
 
-- Collects Ca from food which is required for the growth and repair of bones
+- Collects Ca from food which is required for the growth & repair of bones
 - Builds boness are themselves which build up the skeleton
 -
 #### Sperm ( ͡° ͜ʖ ͡°) Cells
@@ -312,11 +312,11 @@ Move sugars through the plant.
 
 #### Ground Tissue Cells
 
-Storage of starch and energy for the plant.
+Storage of starch & energy for the plant.
 
 #### Epidermal Cells
 
-Protect the plant and facilitates water absorption from roots.
+Protect the plant & facilitates water absorption from roots.
 
 #### Photosynthetic Cells
 
@@ -328,7 +328,7 @@ Controls water loss from the leaves of plants.
 
 ## Levels Of Organization
 
-The levels or organization is a hierarchy with the most complex at the top and least complex at the bottom.
+The levels or organization is a hierarchy with the most complex at the top & least complex at the bottom.
 | Levels of Organization |              |
 | ---------------------- | ------------ |
 | Organism               | Most Complex |
@@ -343,7 +343,7 @@ The levels or organization is a hierarchy with the most complex at the top and l
 
 ### Epithelial Tissue
 
-**Epithelial** tissues are thin sheets of tightly packed cells that cover body surfaces and line internal organs and body cavities. 
+**Epithelial** tissues are thin sheets of tightly packed cells that cover body surfaces & line internal organs & body cavities. 
 
 #### Function
 
@@ -357,7 +357,7 @@ The levels or organization is a hierarchy with the most complex at the top and l
 
 ### Connective Tissue
 
-Various types of cells and fibres held together by a liquid, solid or gel called a matrix.
+Various types of cells & fibres held together by a liquid, solid or gel called a matrix.
 
 #### Functions
 
@@ -373,7 +373,7 @@ Various types of cells and fibres held together by a liquid, solid or gel called
 
 ### Muscle Tissue
 
-**Muscle tissue** are bundles of long cells called muscle fibres which have specialized proteins which can contract and relax which enables movement. They can be smooth or **striated** (has lines, bands or grooves)
+**Muscle tissue** are bundles of long cells called muscle fibres which have specialized proteins which can contract & relax which enables movement. They can be smooth or **striated** (has lines, bands or grooves)
 
 #### Function
 
@@ -419,9 +419,9 @@ There are 11 major systems:
 | --------------------- | ---------------------------------------------------- |
 | Digestive             | Takes in & breaks down food. Disposes of solid waste |
 | Circulatory           | Transports blood, nutrients & gases                  |
-| Nervous               | Senses and controls responses to the environment     |
+| Nervous               | Senses & controls responses to the environment     |
 | Respiratory           | Gas exchange system                                  |
-| Skeletal              | Supports and protects soft tissues                   |
+| Skeletal              | Supports & protects soft tissues                   |
 | Muscular              | Works with the skeletal system to enable movement    |
 | Immune                | Defends against infections                           |
 | Reproductive (ʘ ͟ʖ ʘ) | Produces offspring                                   |
@@ -460,23 +460,23 @@ These accessory organs secrete chemicals which help digest food.
 
 ##### Tissues In The Digestive Tract
 
-The entire tract is lined with **epithelial tissues**. On type of epithelial cell is called a **Goblet Cell** (a cell which excretes mucus). The mucus protects the digestive tract from enzyms and allows materials to pass smoothly along the digestive tract. 
+The entire tract is lined with **epithelial tissues**. On type of epithelial cell is called a **Goblet Cell** (a cell which excretes mucus). The mucus protects the digestive tract from enzyms & allows materials to pass smoothly along the digestive tract. 
 
-The tract also includes layers of muscles (to allow food to move through the tract), connective tissue for support, and nerve tissue to communicate with the rest of the body to notify you when you're hungry, full, etc.
+The tract also includes layers of muscles (to allow food to move through the tract), connective tissue for support, & nerve tissue to communicate with the rest of the body to notify you when you're hungry, full, etc.
 
 ##### Mouth
 
-The mouth breaks down food in 2 ways. **Mechanically** using your teeth and tongue & **Chemically** with the use of enzymes.
+The mouth breaks down food in 2 ways. **Mechanically** using your teeth & tongue & **Chemically** with the use of enzymes.
 
 ##### Esophagus
 
-The **esophagus** is a muscular tube that connects the moth to the stomach. The muscles are a special type iof muscles called **smooth muscle tissues**. These muscles can contract and relax without conscious effort. It's movement is controlled by nerve tissue. 
+The **esophagus** is a muscular tube that connects the moth to the stomach. The muscles are a special type iof muscles called **smooth muscle tissues**. These muscles can contract & relax without conscious effort. It's movement is controlled by nerve tissue. 
 
-Food enters the mouth then the **pharynx** (a combined passageway for food and air) which then moves into the esophagus. Wavelike contractions called **peristalsis** moves food down to the stomach.
+Food enters the mouth then the **pharynx** (a combined passageway for food & air) which then moves into the esophagus. Wavelike contractions called **peristalsis** moves food down to the stomach.
 
 ##### Stomach
 
-Mechanical & chemical digestion occur here. The stomach churns and moves food around which breaks it down into smaller pieces. This is controlled by smooth muscle tissue. Chemically, the stomach lining cells secrete enzymes & HCl to break down food. The stomach has nerve cells which signal when we're full.
+Mechanical & chemical digestion occur here. The stomach churns & moves food around which breaks it down into smaller pieces. This is controlled by smooth muscle tissue. Chemically, the stomach lining cells secrete enzymes & HCl to break down food. The stomach has nerve cells which signal when we're full.
 
 ##### Small Intestines
 
@@ -492,7 +492,7 @@ Like the small intestine, the large intestine is lined with goblet cells. It con
 
 The large intestine is large in diameter but shorter in length (1.5m) compared to the small intestine.
 
-Water is reabsorbed from undigested food here and leads to the anus (ʘ ʖ̯ ʘ).
+Water is reabsorbed from undigested food here & leads to the anus (ʘ ʖ̯ ʘ).
 
 ##### Rectum
 
@@ -504,17 +504,268 @@ Ejects waste from the digestive system.
 
 ##### Liver
 
-Makes bile and sends it to the Gall Bladder
+Makes bile & sends it to the Gall Bladder.
 
 ##### Bile
 
-Breaks down fat
+Breaks down fat.
 
 ##### Gall Bladder
 
-Stores bile and secretes it to the small intestine as needed.
+Stores bile & secretes it to the small intestine as needed.
 
 ##### Pancreas
 
 Produces insulin which regulates blood sugar. Too little or too much insulin will lead to diabetes.
 
+### Circulatory System
+
+![Circulatory System Organs](Circulatory_System_Organs.png)
+The circulatory system is made up of blood, the heart & blood vessels.
+
+#### Functions
+- Transports substances around the body.
+- Regulation of body temperature.
+- Transport **white blood cells** to areas of the body where there is bacteria or viruses.
+
+#### Pathway Of Blood
+1. Heart
+2. Arteries
+3. Smaller blood vessels
+4. Capillaries
+5. Exchange at cells
+6. Capillaries
+7. Smaller blood vessels
+8. Veins
+9. Heart
+
+#### Blood
+
+**Blood** is a type of connective tissue. It consists of 4 components:
+- Red blood cells
+- White blood cells
+- Platelets
+- Plasma
+
+##### Red Blood Cells (RBC)
+
+RBC contain hemoglobin which is a protein that makes them red & allows them to carry O<sub>2</sub> throughout the body. It makes up approximately 50% of blood's volume.
+
+##### White Blood Cells (WBC)
+
+WBC are cells which fight infection. They recognize & destroy bacteria & viruses. They make up less than 1% of blood's volume.
+
+##### Platelets
+
+**Platelets** help with blood clotting. They make up less than 1% of blood's volume.
+
+##### Plasma
+
+**Plasma** is a protein-rich liquid which carries blood cells along. It makes up over 50% of blood's volume.
+
+![Blood Volume](Blood_Volume_Composition.png)
+
+#### Heart
+
+The **heart** is made up of cardiac muscular tissue, nerve tissue, & connective tissue. The cardiac muscle tissue contracts & pumps with a steady & regular beat. The muscles & nerves are covered by epithelial tissue to reduce friction & protects the heart from damage when the lungs expands & contract. The inner suface of the heart is lined for blood to flow easier.
+
+![Heart](Heart.webp)
+
+#### Blood Vessels
+
+##### Arteries
+
+- Carries blood away from the heart
+- Has the thickest walls
+- Under the most pressure
+
+##### Veins
+
+- Carries blood towards the heart
+- Thinner walls
+- Under less pressure
+
+##### Capillaries
+
+- Connect arteries & veins
+- Tiny blood vessels with very thin walls
+- Allows substances to diffuse between the blood & other fluids & tissues.
+![Artery Vein Capillary Diagram](Vein_Artery_Capillaries.png)
+
+### Respiratory System
+
+The respiratory system is responsible for the body's gas exchange. It's responsible for providing O<sub>2</sub> needed by the body & releasing CO<sub>2</sub> produced as your body uses energy for growth, repair & movement. The respiratory system relies on the **circulatory** system to distribute O<sub>2</sub> to the cells & remove CO<sub>2</sub>.
+
+![Respiratory System](Respiratory_System.png)
+
+#### Function
+
+- Provides O<sub>2</sub> to cells
+- Removes CO<sub>2</sub> that is produced in cells
+- Site of gas exchange
+
+#### Nose
+
+Entry for air. Filters, warms & moistens air. Hairs called cilia protect the nasal passageways & filters particles.
+
+#### Mouth
+
+The mouth can contain both food & air (obviously). Same function as nose.
+
+#### Pharynx
+
+Carries both food & air. Used for digestion & respiration. 2 Paths: esophagus & trachea. When you swallow, a flap of tissue called the **epiglottis** covers the opening to the **trachea**. This prevents liquids & food entering the lungs. If food or liquid gets into the trachea (like me whenever I swallow water), the resulting cough is your body's attempt to get rid of it. 
+
+
+#### Trachea
+
+The trachea is surrounded by rings of cartilage. The cartilage helps keep the trachea open & allows air to flow freely. Cells lining the trachea have **cilia** & goblet cells to trap & filter out foreign materials entering the respiratory system.
+
+#### Bronchi/Bronchus
+
+Each bronchi branches into smaller air sacs called **alveoli**. Structures enable fresh air to get to air sacs.
+
+#### Alveoli
+
+Alveoli are tiny air sacs surrounded by a network of capillaries. They are thin walled to allow diffusion of gases. Blood flowing to the lung has low O<sub>2</sub> & high CO<sub>2</sub> concentrations. The O<sub>2</sub> concentration is high in the alveolus while CO<sub>2</sub> concentration is low. O<sub>2</sub> diffuse from the alveolus into caollaries while CO<sub>2</sub> goes the other way. This is the gas exchange. 
+
+![Gas Exchange](Gas_Exchange.png)
+
+#### Lungs
+
+Pathway for oxygen entering the bloodstream. Structures enable fresh air to get to air sacs.
+
+#### Breathing
+
+![Breathing](Breathing.png)
+
+- Happens unconsciously (unless you think about it...)
+- The process of moving air into the lungs (**inhalation**) & pushing the air out (**exhalation**).
+- Involves muscles that move the lungs which makes the rib cage expand & contract.
+- Involves the **diaphragm**, a large sheet of muscles.
+
+**Inhaling**
+The diaphragm contracts which increases the lung volume, decreases pressure, & moves air into lungs.
+
+**Exhaling**
+The diaphragm relaxes which decreases lung volume, increases pressure, & moves air out of the the lungs.
+
+#### Diseases
+
+##### Tuberculosis
+- Infectious disease
+- Caused by bacteria which enters the body when you breathe.
+- Bacteria grows in the lungs & spreads to other parts of the body.
+
+###### Symptoms
+- Fever
+- Cough
+- Weight loss
+- Tiredness
+- Chest pain
+- Death (if untreated)
+
+##### SARS (Severe Acute Respiratory Syndrom)
+- Flu-like symptoms (X-rays show pneumonia)
+- 438 cases in Canada with 44 deaths.
+
+##### Lung Cancer
+- Caused by carcinogens
+
+### Musculoskeletal System
+
+An organ system made up of bones & skeletal muscle.
+
+#### Functions
+
+- Supports the body
+- Protects delecate organs
+- Allows movement
+
+#### Structural Features
+
+- Connective Tissue
+- Muscles
+
+There are 3 types of **connective tissue**.
+- Bones
+- Ligaments
+- Cartilage
+
+##### Bones
+
+- Made of minerals (Ca, P) & collagen fibres.
+- Small canals for nerves & blood vessels.
+- Hard & dense
+
+##### Ligaments
+
+- Tough, elastic connective tissues
+- Holds bones together at joints
+- Made of long fibres of collagen
+
+##### Cartilage
+
+- Dense connective tissue
+- Strong, flexible, low-friction support for bones & tissues, (Nose, ear, esophagus, etc)
+
+##### Muscles
+
+- Bundles of long cells
+- Contract & expand when signalled by nerve cells.
+- Muscles contract - get shorter & thicker
+- Skeletal muscle attached to bone by tendons
+
+Types of muscles:
+- Voluntary
+- Involunary
+
+#### Skeleton
+
+The **skeleton** provides support, protection & movement. It's support for our bodies & anchor points for muscles. It protects internal organs & the brain. Stores Ca & minerals needed by organism.
+
+##### Function Of The Skeleton
+- Production of white & red blood cells. Cartilage provides smooth surface where bones come togeth at joins preventing to the ends of bones. Skeletal muscles used for voluntary movements.
+
+#### Musculoskeletal Disease
+
+##### Osteoporosis
+- Loss of bone tissue/Ca
+- Makes bones brittle & weak
+- Common in older women
+- Simply use Ca & vitamin supplements.
+
+### Nervous System
+
+The nervous system is made up of the brain, spinal cord, & peripheral nerves. It senses the environment & returns an appropriate response. 
+
+The core of the nervous system is the brain & spinal cord. These are protected by bones & cerebrospinal fluid. This is called the central nervous system.
+
+#### Peripheral Nervous System
+
+- Nerves that carry the signals between the central nervous system & body,
+- Relays instructions from the brain to other pody parts to control its functions & responses.
+- Consists of nerves that carry signals between the central nervous system and body
+
+#### Nerve Tissue
+
+Nerves are bundles of cells called **neurons** surrounded by connective tissue.
+![Nerves](Nerves.png)
+
+**Neurons** are communication specialists that send information around the body via electrical signals. There are approx. 100 billion neurons in the human brain.
+
+**Nerves** allow 2-way flow of information while **neurons** only transmit information in 1 direction.
+
+Injured neurons do not regenerate easily. However, some neurons can regrow to repair small gaps between nerves.
+
+![Nerve Signal](Nerve_Signal.png)
+
+#### Sensory Receptors
+
+Special cells/tissues that receive input from the external environment & send signals to the central nervous system. Information from different sensory receptors goes to specific parts of the brain. Our eyes, noes, mouth, ears, muscles, & skin have sensory receptors.
+
+![Parts Of The Brain](Parts_Of_The_Brain.png)
+
+#### Reflexes
+
+Reflexes are actions that do not require the involvement of the brain. In other words, they occur without conscious thought. The spinal cord acts for reflexes. An example is if you hit your knee, your leg will move.
