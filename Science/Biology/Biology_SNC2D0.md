@@ -231,7 +231,7 @@ Most cancers take years to develop & are caused by multiple factors.
 
 ### Adult (Tissue) Stem Cells
 
-Within a week of fertlization, the embryonic stem cells become differentiated. There are now tissue stem cells witch are **pluripotent** (they can only develop into some types of cells tat are in their stem cell niche).
+Within a week of fertlization, the embryonic stem cells become differentiated. There are now tissue stem cells which are **pluripotent** (they can only develop into some types of cells tat are in their stem cell niche).
 
 ![Adult Stem Cells](Tissue_Stem_Cells.png)
 
