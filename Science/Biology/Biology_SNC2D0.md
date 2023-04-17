@@ -255,7 +255,9 @@ Embryonic stem cells can be produced via fertility treaments & cloning. Some bel
 
 **Specialized Cells** have physical & chemical differences that allow them to perform one job very well.
 
-Lung tissue clels are different from brain cells which are different from intestinal cells & so on & so forth.
+Unspecialized cells go through a process called **cell differentiation** to become specialized cells.
+
+Lung tissue cells are different from brain cells which are different from intestinal cells & so on & so forth.
 
 ### Specialized Calls - Animals
 
