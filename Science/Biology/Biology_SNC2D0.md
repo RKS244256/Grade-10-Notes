@@ -508,8 +508,7 @@ Ejects waste from the digestive system.
 
 Makes bile & sends it to the Gall Bladder.
 
-##### Bile
-
+###### Bile
 Breaks down fat.
 
 ##### Gall Bladder
