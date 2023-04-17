@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c03c72c5e6675944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -99,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Biology/Biology_SNC2D0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +154,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c03c72c5e6675944",
+  "active": "036005a1a9781fb7",
   "lastOpenFiles": [
+    "Science/Biology/Biology_SNC2D0.md",
     "Science/Biology/Parts_Of_The_Brain.png",
     "Science/Biology/Nerve_Signal.png",
     "Science/Biology/Nerves.png",
@@ -186,9 +169,7 @@
     "Science/Biology/Blood_Volume_Composition.png",
     "Science/Biology/Circulatory_System_Organs.png",
     "README.md",
-    "Science/Biology/Biology_SNC2D0.md",
     "History/1930/1930_CHC2D0.md",
-    "Science/Biology/Digestive_System_Organs.png",
     "Science/Biology/Muscle_Fibers.jpg.crdownload",
     "History/README.md",
     "Science/README.md",
