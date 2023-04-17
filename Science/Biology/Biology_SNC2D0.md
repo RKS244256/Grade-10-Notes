@@ -451,7 +451,8 @@ In humans, the tube consists of:
 - Esophagus
 - Stomach
 - Small intestine
-- Large intesting
+- Large intestine
+- Rectum
 - Anus
 
 With a few accessory organs:
