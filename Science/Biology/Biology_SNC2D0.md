@@ -210,7 +210,7 @@ How to tell the difference between melanoma (skin cancer) & a benign mole:
 Most cancers take years to develop & are caused by multiple factors.
 
 ### How is cancer treated
-**Radiation**: Cancerous cells & tumors are killed using high energy x-rays, gamma rays, etc
+**Radiation** & Lasers: Cancerous cells & tumors are killed using high energy x-rays, gamma rays, etc
 **Chemotherapy**: Chemicals target rapidly dividing cells
 
 ### How to not get cancer
@@ -618,7 +618,6 @@ The mouth can contain both food & air (obviously). Same function as nose.
 
 Carries both food & air. Used for digestion & respiration. 2 Paths: esophagus & trachea. When you swallow, a flap of tissue called the **epiglottis** covers the opening to the **trachea**. This prevents liquids & food entering the lungs. If food or liquid gets into the trachea (like me whenever I swallow water), the resulting cough is your body's attempt to get rid of it. 
 
-
 #### Trachea
 
 The trachea is surrounded by rings of cartilage. The cartilage helps keep the trachea open & allows air to flow freely. Cells lining the trachea have **cilia** & goblet cells to trap & filter out foreign materials entering the respiratory system.
@@ -727,7 +726,7 @@ Types of muscles:
 The **skeleton** provides support, protection & movement. It's support for our bodies & anchor points for muscles. It protects internal organs & the brain. Stores Ca & minerals needed by organism.
 
 ##### Function Of The Skeleton
-- Production of white & red blood cells. Cartilage provides smooth surface where bones come togeth at joins preventing to the ends of bones. Skeletal muscles used for voluntary movements.
+- Production of white & red blood cells. Cartilage provides smooth surface where bones come together at joins preventing to the ends of bones. Skeletal muscles used for voluntary movements.
 
 #### Musculoskeletal Disease
 
