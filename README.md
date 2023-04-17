@@ -7,3 +7,4 @@ You may submit a pull request to contribute your own notes and changes if you'd 
 
 ## Special Thanks
 **Khan Academy** - For carrying my dumbass through math and biology 
+A classmate - For their notes 

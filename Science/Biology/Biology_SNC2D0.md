@@ -294,8 +294,8 @@ Lung tissue clels are different from brain cells which are different from intest
 #### Bone Cells
 
 - Collects Ca from food which is required for the growth & repair of bones
-- Builds boness are themselves which build up the skeleton
--
+- Builds bones around themselves which build up the skeleton
+
 #### Sperm ( ͡° ͜ʖ ͡°) Cells
 - Carry DNA from male parent to join with the DNA of the female parent.
 - Hase a flagellum to allow movement
@@ -419,15 +419,15 @@ There are 11 major systems:
 | --------------------- | ---------------------------------------------------- |
 | Digestive             | Takes in & breaks down food. Disposes of solid waste |
 | Circulatory           | Transports blood, nutrients & gases                  |
-| Nervous               | Senses & controls responses to the environment     |
+| Nervous               | Senses & controls responses to the environment       |
 | Respiratory           | Gas exchange system                                  |
-| Skeletal              | Supports & protects soft tissues                   |
+| Skeletal              | Supports & protects soft tissues                     |
 | Muscular              | Works with the skeletal system to enable movement    |
 | Immune                | Defends against infections                           |
 | Reproductive (ʘ ͟ʖ ʘ) | Produces offspring                                   |
 | Endocrine             | Makes hormanes & keeps systems in balance            |
 | Excretory             | Disposes liquid waste                                |
-| Integumentary         | Protective barrier                                                     |
+| Integumentary         | Protective barrier                                   |
 
 ### Digestive System
 
