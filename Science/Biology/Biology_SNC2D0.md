@@ -182,6 +182,12 @@ Plant cells cannot be divided like this as they have a cell wall. Instead, a str
 
 The cycle is thus completed & the 2 daughter cells will continue the cycle.
 
+## Osmosis & Diffusion
+
+**Diffusion** refers to the movement of molecules from an area of high concentration to an area of lower concentration. 
+
+**Osmosis** is a type of diffusion specifically for water molecules moving across a semi-permeable membrane.
+
 ## Cancer
 **Cancer** is a disease in which mutated cells (mistakes in their DNA) divide uncontrollably. These cells ignore cell-cycle checkpoints.
 
@@ -231,7 +237,11 @@ Most cancers take years to develop & are caused by multiple factors.
 
 ### Adult (Tissue) Stem Cells
 
-Within a week of fertlization, the embryonic stem cells become differentiated. There are now tissue stem cells which are **pluripotent** (they can only develop into some types of cells tat are in their stem cell niche).
+Within a week of fertlization, the embryonic stem cells become differentiated. There are now tissue stem cells which are **pluripotent** (they can only develop into some types of cells that are in their stem cell niche).
+
+### Meristematic Cells
+
+Unspecialized cells in plants.
 
 ![Adult Stem Cells](Tissue_Stem_Cells.png)
 
@@ -274,7 +284,7 @@ Lung tissue cells are different from brain cells which are different from intest
 #### Muscle Cells
 
 - Arranged in bundles called muscle fibers
-- Controct & shortens causing bons to move
+- Contract & shortens causing bones to move
 
 ![Muscles Fibers](Muscle_Fibers.jpg)
 
@@ -328,6 +338,133 @@ Contain chloroplasts which collect energy from the sun to make sugar for the pla
 
 Controls water loss from the leaves of plants.
 
+
+## Tissues - Plants
+
+### Dermal
+
+Outermost layer of a plant. Thin layer of cells that cover the surfaces of leaves, stems, & roots.
+
+#### Functions
+- Absorb water & minerals
+- Produce layer of wax to waterproof surface
+- May contain chemical irritants for defence.
+
+### Vascular
+- Network of tubes that reach from the roots to the leaves.
+- Transports water & nutrient to parts of the plants for growth.
+- There are 2 types
+
+#### Xylem
+
+Carries H<sub>2</sub>O & dissolved minerals from roots to the rest of the plant in only **one direction**
+
+#### Phloem
+
+Transports sugars produced during photosynthesis along with other nutrients & homones. Can transport in either direction.
+
+### Ground
+
+Between dermal & vascular tissues.
+
+#### Function
+It's function is dependent on its location.
+
+##### Green Parts
+
+Manufactures nutrients via photosynthesis.
+
+##### Stems
+
+Provides storage & support
+
+##### Roots
+
+Stores carbohydrates.
+
+## Systems In Plants
+
+Plants have 2 main body systems:
+
+### Functions
+
+- Moves water & nutrients internally
+- Exchange gases with its surroundings
+- Reproduction
+
+### Root System
+
+The part of the plant that grows below ground. It contains **root hairs** which are tiny extensions of the tissue that increase surface area & help with absorption.
+
+#### Functions
+
+- Anchor plant to the ground
+- Absorb water & minerals from the soil
+- Store food
+
+### Shoot System
+
+The shoot system has 3 parts:
+
+#### Leaf
+
+Where photosynthesis takes place.
+
+Chloroplasts take CO<sub>2</sub>, H<sub>2</sub>O, & light to produce glucose & O<sub>2</sub>.
+
+O<sub>2</sub> is needed by plant cells for cellular respiration. But leaves produce a surplus and any excess is released as waste.
+
+#### Flowers
+
+- Contain male/female reproductive structures.
+- Eggs are fertilized with pollen and seeds are formed within fruits.
+
+#### Stem
+- Supports plant's leaves & flowers
+- Provides a way to transport materials.
+
+## Plant Structures
+
+![Plant_Diagram](Plant_Diagram.png)
+
+### Palisade Layer
+
+Closely packed & just below the leaf's upper surface. Chloroplasts are located here. Located where there is maximum light.
+
+### Spongy Mesophyll
+
+Loosely packed & located throughout the interior of the leaf. Chloroplasts are also located here. Located through the leaf with air pockets in between. Part of the ground tissue system.
+
+### Cuticle
+
+Layer of epidermal tissue that produces a thin layer of wax to create a waterproof layer.
+
+### Guard Cell
+
+Cells that open and close the stomata.
+
+### Stomata
+
+Openings that gases enter and exit from.
+
+### Guard Cell
+
+Cells that open & close the stomata.
+
+## Photosynthesis
+
+Chloroplasts are mostly contained in the **mesophyll layers** (See the 2 above in plant structures).
+
+CO<sub>2</sub> will naturally diffuse into a leaf. In order to not diffuse too much, the leaf is coated with epidermal tissue called the **cuticle**. 
+
+Leaves will close their stomata when water levels are low.
+
+Leaves obtain water through vascular tissues.
+
+## Meristem Cells
+
+Meristem cells are capable of division & growth in plants in order to repair injured plant tissues & allow growth.
+
 ## Levels Of Organization
 
 The levels or organization is a hierarchy with the most complex at the top & least complex at the bottom.
@@ -339,7 +476,8 @@ The levels or organization is a hierarchy with the most complex at the top & lea
 | Tissue                 |              |
 | Cell                   | Simplest             |
 
-## Tissues
+
+## Tissues - Animals
 
 **Tissues** are a group of similar cells which perform a particular function.
 
@@ -617,6 +755,9 @@ The mouth can contain both food & air (obviously). Same function as nose.
 #### Pharynx
 
 Carries both food & air. Used for digestion & respiration. 2 Paths: esophagus & trachea. When you swallow, a flap of tissue called the **epiglottis** covers the opening to the **trachea**. This prevents liquids & food entering the lungs. If food or liquid gets into the trachea (like me whenever I swallow water), the resulting cough is your body's attempt to get rid of it. 
+
+#### Larynx
+A hollow tube that lets air pass from your throat to your trachea. Contains vocal chords & allows human speech.
 
 #### Trachea
 

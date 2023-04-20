@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f6b7a6d3eecb0d9",
+            "id": "0a1e9f7d6ee38a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,9 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f6b7a6d3eecb0d9",
+  "active": "0a1e9f7d6ee38a43",
   "lastOpenFiles": [
+    "Science/Biology/To-Do.md",
     "Science/Biology/Biology_SNC2D0.md",
+    "Science/Biology/Plant_Diagram.png",
+    "History/WW2/WW2_CHC2D0.md",
+    "History/WW2",
     "README.md",
     "Pasted image 20230415175307.png",
     "Science/Biology/Parts_Of_The_Brain.png",
@@ -171,7 +175,6 @@
     "Science/Biology/Vein_Artery_Capillaries.png",
     "Science/Biology/Heart.webp",
     "Science/Biology/Heart.webp.crdownload",
-    "Science/Biology/Blood_Volume_Composition.png",
     "History/1930/1930_CHC2D0.md",
     "Science/Biology/Muscle_Fibers.jpg.crdownload",
     "History/README.md",
@@ -183,7 +186,6 @@
     "Science/Biology/Telophase.png.crdownload",
     "Science/Biology/Anaphase.png.crdownload",
     "Science/Biology/Metaphase.png.crdownload",
-    "Science/Biology/Spindle.png.crdownload",
     "Prokaryotes-Eukaryotes.jpg.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
     "Biology/Untitled.md",
