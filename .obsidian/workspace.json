@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md",
+                "file": "Science/Biology/Pneumonia.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md",
+                "file": "Science/Biology/Pneumonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md",
+                "file": "Science/Biology/Pneumonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md"
+                "file": "Science/Biology/Pneumonia.md"
               }
             }
           },
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +167,11 @@
   },
   "active": "0a1e9f7d6ee38a43",
   "lastOpenFiles": [
+    "Science/Biology/Biology_SNC2D0.md",
     "History/WW2/WW2_CHC2D0.md",
+    "Science/Chemistry/Chemistry_SNC2D0.md",
     "History/WW2/Blitzkrieg.png",
     "History/WW2/Fascist_symbol.png",
-    "Science/Biology/Biology_SNC2D0.md",
     "Science/Biology/Pneumonia.md",
     "Science/Biology/To-Do.md",
     "Science/Biology/Plant_Diagram.png",
@@ -198,7 +197,6 @@
     "Science/Biology/Anaphase.png.crdownload",
     "Science/Biology/Metaphase.png.crdownload",
     "Prokaryotes-Eukaryotes.jpg.md",
-    "Science/Chemistry/Chemistry_SNC2D0.md",
     "Biology/Untitled.md",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",
