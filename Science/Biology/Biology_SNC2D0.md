@@ -35,7 +35,7 @@ There are 2 types of cells.
 
 ### Prokaryotes
 
-**Prokaryotes** are simply lifeforms. They are single celled & lack a nucleus.
+**Prokaryotes** are simple lifeforms. They are single celled & lack a nucleus.
 
 An example of a prokaryote is bacterium.
 
@@ -761,9 +761,9 @@ A hollow tube that lets air pass from your throat to your trachea. Contains voca
 
 #### Trachea
 
-The trachea is surrounded by rings of cartilage. The cartilage helps keep the trachea open & allows air to flow freely. Cells lining the trachea have **cilia** & goblet cells to trap & filter out foreign materials entering the respiratory system.
+The￼Dermal trachea is surrounded by rings of cartilage. The cartilage helps keep the trachea open & allows air to flow freely. Cells lining the trachea have **cilia** & goblet cells to trap & filter out foreign materials entering the respiratory system.
 
-#### Bronchi/Bronchus
+#### Bronchi/Bronchioles
 
 Each bronchi branches into smaller air sacs called **alveoli**. Structures enable fresh air to get to air sacs.
 
