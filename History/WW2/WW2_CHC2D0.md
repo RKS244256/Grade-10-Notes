@@ -265,3 +265,125 @@ In 1941, Japand bombed Pearl Harbour. Canadians started fearing an attack & raci
 ### Conscription
 
 In 1939, Mackenzie King promised that there wouldn't be conscription. But volunteers started to dwindle. King held a plebiscite where Canadians voted on Conscription. In 1944, the PM sent 2400 troops by force. This lead to protests across the country including pacifists & Qu__eckers.
+
+## Battle Of Britain
+
+After Germany captured France, Britain was targetted primarily by the **Luftwaffe** (German airforce). Starting July 1940, the Luftwaffe launched attacks to destroy critical infrastructure including:
+
+| Infrastructure | Purpose                                                |
+| -------------- | ------------------------------------------------------ |
+| Radar          | Detected approaching aircraft                          |
+| Airfields      | Take off, landing & repair of aircraft                 |
+| Ports          | Harbours & towns where ships would load & unload cargo |
+| Factories      | Where goods & products are made. Usually war goods.                                                       |
+
+If the Luftwaffe destroyed all of these targets, Britain would be crippled & defenceless.
+
+They almost succeded with majority of the **RAF** (Royal Air Force) being wiped out in a few months.
+
+### Luftwaffe vs RAF
+
+Advantages:
+| Luftwaffe     | RAF                               |
+| ------------- | --------------------------------- |
+| More aircraft & pilots (3000/1600 vs 1200/660) | Better fuel economy/efficiency    |
+|               | Could renew/reload ammo midflight |
+
+### London Blitz
+
+Starting September 1940, Germany began targetting civillians via means such as bombing cities. This strategy & period are known as the **Blitz**. This was done to reduce British morale and hopefully have citizens force Britain to surrender.
+
+### Germany Failed (L Bozo)
+
+Germany stopped bombing airfields & factories and Britain was able to regroup. New planes were produced & allowed Britain to strengthened it's defenses and the Luftwaffe began sustaining heavy losses. By December 1940, Germany called off the invasion. (L + Ratio + Cringe + Fell Off + Fumbled The Bag)
+
+## Communism
+
+Communism is a political/economic ideology that aims to make a society based on equality & lack of social classes.
+
+The hammer & sickle & the color red are often associated with communism. The **hammer** represents industry & the sickle represents agriculture.
+
+### Capitalism vs Communism
+
+Complete opposites :/
+
+| Capitalism                                      | Communism                                       |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Individuals own companies for personal benefit. | Community owns all industries for greater good. |
+| Market is relatively free                       | Heavy govt. involvement                         |
+| Little to no govt. involvement                  | State determines where emplyees work                                                |
+| Employees can choose their employer             |                                                 |
+
+### Communism In A Nutshell
+
+- Lead by dictator
+- Eliminates private ownership
+- Govt. controls & owns production & distribution of goods
+- Relies on a military force
+- Controls the media
+- Promotes nationalism
+- Most communist govt. were overthrown in the 1990s
+
+## Hitler X Stalin Fanfiction (Russia & Germany relations)
+
+Both nations didn't see eye to eye & in April 1939, Russia (Stalin) suggested an alliance of Russia, France & Britain against Germany. This would prove to be an obstacle for Hitler but negotiations dragged into August because Russia didn't trust France & Britain & Britain did not agree with communism. 
+
+### Nazi-Soviet Non-Aggression Pact
+
+Germany & Russia pulled a pro gamer move & made the **Nazi-Soviet Non-Aggression Pact**. This pact agreed that neither would go to war with eachother & secretly invade Poland. This stunned the international community.
+
+This pact
+- Allowed Hitler & the German army to focus on France
+- Russia would recieve half of Poland without going to war
+
+### Operation Barbarossa
+
+After the Battle of Britain, Hitler decided to invade Russia breaking the Nazi-Soviet Non-Aggression Pact. On June 22, 1941, Hitler launced an invasion of the Soviet Union. This surprised Stalin.
+
+The Blitzkrieg was as effective as before & Germany pushed deeper into Russia's territory.
+
+#### Scorched Earth
+
+The Soviets employed a **schorched earth policy**. When retreating, they would destroy resources & burn villages to avoid the Germans from using it. Stalin also ordered Russian cities & troops were prohibited from surrendering. Should a soldier be seen deserting, they would be killed along with any suspected disloyal Russian citizen.
+
+### Failure of Operation Barbarossa
+
+Hitler needed his army to capture Moscow before the winter but they weren't able to reach the outskirts until September. The German army was starved & ill prepared. 
+
+They were driven back by a surprised counterattack on December 6, 1941. In 1942, a second push ended in the surrender of the German 6th Army at the **Battle of Stalingrad** in 1943. The failure of Operation Barbarossa was Hitler's first major land defeat & was the beginning of the end.
+
+## The Pacific
+
+In the Pacific region, **Japan** was continuing a campaign to expand its emire. In 1932, the Japanese successfully invaded Manchuria. They allied with Germany & launced a campaign to expand into coastal China in 1936.
+
+### Nanking
+
+The Western world was horrified by the savagery including the rape, torture, & murder of the citizens of the city of **Nanking**.
+
+### Measures Against Japan
+
+The **League of Nations** was powerless to stop Japan. Countires including the U.S, Britain & Canada severed diplomatic ties & banned shipment of war materials & oil to Japan.
+
+The U.S threatened to retaliate & stationed their naval fleet in Hawaii in case war broke out. 
+
+Canada sent 2 units by early December 1941 to Hong Kong.
+
+### Pearl Harbor
+
+The US attempted to work out a peace treaty with Japan. The Japanese had already decided to go to war & they had continued peace talks as a distraction. The only major barrier to Japanese victory was **Pearl Harbor**. On December 7, 1941, the first wave of Japanes aircraft began bombing their targets over Pearl Harbour. They had not declared war & when the surprise attack ended after less than 2 hours, the U.S fleet was decimated.
+
+#### Damage
+| Unit       | Destroyed/Killed |
+| ---------- | ---------------- |
+| Warships   | 18               |
+| Aircraft   | 349              |
+| Combatants | 3581             |
+| Civilians  | 103                 |
+
+### Aftermath of Pearl Harbor
+
+The U.S immediately declared war on Japan & joined WW2. The U.S was the richest nation in the world in 1941 & invested substantial amounts of money, arms & personnel into the war effort.
+
+### Hong Kong
+
+A few hours later, Japan invaded Hong Kong. The soldiers stationed in Hong Kong were C-force soldiers not prepared for war. They were outclassed & outmanned. The invasion started on December 8, 1941 & ended with the surrender of Hong Kong on December 25, 1941. Every Canadian soldier had either been killed or taken as a **POW**. The POWs were treated harshly with 3 bowls of rice per day, no medicine & being overworked.

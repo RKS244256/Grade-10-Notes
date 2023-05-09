@@ -36,7 +36,6 @@ Rest are less common and caused by other infections such as fungi
 
 
 
-
 Effects:
 The accumulation of pus is actually the body’s response to infection in the lungs. The pus contains many blood elements including groups of WBC called Neutrophils and groups of plasma proteins called Opsonins. These are important to fighting off infection. However, it can become dangerous as Neutrophils make toxic products that while useful in killing microbes, can also damage the lungs. The accumulation of plasma proteins results in the build up of fluid in the lungs (aka pulmonary edema) This makes the gas exchange much more difficult and for the body to function as this function is essential. This is also the cause of many of the symptoms experienced by those who have pneumonia.
 

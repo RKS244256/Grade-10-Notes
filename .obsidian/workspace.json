@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a1e9f7d6ee38a43",
+            "id": "ac00757d3ef1e5bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Biology/Pneumonia.md",
+                "file": "History/WW2/WW2_CHC2D0.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ac00757d3ef1e5bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -72,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "dac107d20ebd8170",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Pneumonia.md",
+                "file": "History/WW2/WW2_CHC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Biology/Pneumonia.md",
+                "file": "History/WW2/WW2_CHC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Biology/Pneumonia.md"
+                "file": "History/WW2/WW2_CHC2D0.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +167,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a1e9f7d6ee38a43",
+  "active": "ac00757d3ef1e5bd",
   "lastOpenFiles": [
+    "Science/Biology/Pneumonia.md",
     "Science/Biology/Biology_SNC2D0.md",
     "History/WW2/WW2_CHC2D0.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
     "History/WW2/Blitzkrieg.png",
     "History/WW2/Fascist_symbol.png",
-    "Science/Biology/Pneumonia.md",
     "Science/Biology/To-Do.md",
     "Science/Biology/Plant_Diagram.png",
     "History/WW2",
