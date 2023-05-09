@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1361bedd4e22f206",
+        "id": "31c47095eda224d7",
         "type": "tabs",
         "children": [
           {
-            "id": "ac00757d3ef1e5bd",
+            "id": "be41a808e2eb2a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -167,11 +166,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac00757d3ef1e5bd",
+  "active": "be41a808e2eb2a23",
   "lastOpenFiles": [
+    "History/WW2/Auschwitz.jpeg",
+    "History/WW2/WW2_CHC2D0.md",
+    "History/WW2/Oven.jpeg",
+    "History/WW2/Shower.jpeg",
+    "History/WW2/Concentration_Camp.jpg",
+    "History/WW2/Jewish_Ghetto.jpg",
+    "History/WW2/Kristallnacht.jpg",
     "Science/Biology/Pneumonia.md",
     "Science/Biology/Biology_SNC2D0.md",
-    "History/WW2/WW2_CHC2D0.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
     "History/WW2/Blitzkrieg.png",
     "History/WW2/Fascist_symbol.png",
@@ -181,11 +186,6 @@
     "README.md",
     "Pasted image 20230415175307.png",
     "Science/Biology/Parts_Of_The_Brain.png",
-    "Science/Biology/Nerve_Signal.png",
-    "Science/Biology/Nerves.png",
-    "Science/Biology/Breathing.png",
-    "Science/Biology/Gas_Exchange.png",
-    "Science/Biology/Respiratory_System.png",
     "Science/Biology/Heart.webp.crdownload",
     "History/1930/1930_CHC2D0.md",
     "Science/Biology/Muscle_Fibers.jpg.crdownload",

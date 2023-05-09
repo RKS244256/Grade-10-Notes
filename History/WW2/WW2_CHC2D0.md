@@ -387,3 +387,92 @@ The U.S immediately declared war on Japan & joined WW2. The U.S was the richest 
 ### Hong Kong
 
 A few hours later, Japan invaded Hong Kong. The soldiers stationed in Hong Kong were C-force soldiers not prepared for war. They were outclassed & outmanned. The invasion started on December 8, 1941 & ended with the surrender of Hong Kong on December 25, 1941. Every Canadian soldier had either been killed or taken as a **POW**. The POWs were treated harshly with 3 bowls of rice per day, no medicine & being overworked.
+
+## VE Day
+
+*To be added*
+
+## VJ Day
+
+*To be added*
+
+## The Holocaust
+
+*This section will separated into stages*
+
+### Stage 1 (1933-1938)
+
+#### The Master Race (Übermensch)
+
+Hitler & the Nazi's believed Aryans were the master race & should rule the world.
+
+#### Anti Semitism
+
+Hitler was extremely anti-semetic (hated Jewish people). He wrote of his anti-semitism in his manifesto **Mein Kampf**. He blamed many of Germany's problems on the Jewish people.
+
+Once in power, Nazis began systematically persecuting Jews. (Eg. Boycotts of Jewish businesses & arresting Jewish men if they were caught near non-Jewish women.)
+
+#### Hitler Youth
+
+The **Hitler Youth** was an organization to teach the German youth Nazism. It was mandatory for every child 10+.
+
+These teachings were forced into schools and written into propaganda disguised as children's books.
+
+#### Nuremberg Laws
+
+In 1935, **Nuremberg Laws** were passed which took away civil rights from members of the Jewish faith.
+
+They could not
+- Marry non-Jewish people
+- Own property or had to register the property with the Nazis
+- Go to or use publicly owned locations or publiclly run services.
+
+#### Kristallnacht (Night of Broken Glass)
+
+In 1938, a Jewish teenager killed a German politician. Hitler used this to incite a night of violence against the Jewish community. More than 90 Jewish people were killed & thousands of Jewish stores & synagogues were destroyed. Thousands of Jewsih people were arrested. Jewish property owners were left to pay for the damages.
+
+![Kristallnacht](Kristallnacht.jpg)
+
+### Phase 2
+
+#### Ghettos
+
+The **ghettos** were areas Jewish people were forced to live. They were forced to leave their homes & could only bring what they could carry. There were 356 ghettos throughout Europe with many being located in Poland.
+
+Many of these ghettos were closed off by walls or barbed wire with German SS guarding these areas. 
+
+Jewish people had to wear a Star of David so they could be identified. Eventually, Jewish people were not allowed to leave under the penalty of death.
+
+These Ghettos often had poor conditions. Jewish families were forbidden from teaching their children or celebrating holidays.
+
+![Jewish Ghetto](Jewish_Ghetto.jpg)
+
+#### Concentration Camps
+
+**Concerntation Camps** were prison camps where prisoners would be forced into slave labour. Jewish people, Romani (Gypsies), those with mental disabilities, Jehovah witnesses, & homosexuals were also imprisoned.
+
+![Concentration Camp](Concentration_Camp.jpg)
+
+### Phase 3 (The Final Solution)
+
+In 1942, the Nazis decided all Jewish people would be exterminated. Hitler called this the **Final Solution** to the **Jewish Problem**.
+
+Jewish people would be transported to concentration camps commonly by train to be executed.
+
+These camps killed millions via hanging, firing squad, torture, overworking, & gas chambers. Some were experimented on before being killed.
+
+![Gas Chamber in Dachau. Labelled Shower/Bath](Shower.jpeg)
+
+Gas chambers would be disguised as showers. A poison gas called Zyklon B would fill the chambers, killing the occupants. The bodies would then be removed by other prisoners. Any valuables or clothing were kept for future use. The corpses were placed in ovens for cremation.
+
+![Oven used to incinerate corpses.](Oven.jpeg)
+
+#### Auschwitz-Birkenau
+
+Most infamous death camp. Over 2 million were killed including Anne Frank. A Jewish teenager whose diary has become a notable primary source.
+
+![Auschwitz|400](Auschwitz.jpeg)
+
+### Aftermath
+
+Near the end of the war, Hitler diverted troops to kill Jewish people at a faster rate. 6 million were killed in total. This was a third of all Jewish people in Europe.
