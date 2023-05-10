@@ -31,7 +31,7 @@ The **League Of Nations** was an international organization created after WW1 wi
 - Needed to reach a consensus before acting
 - Recommendations were not binding
 
-#### Biggest Failures
+#### Biggest Fn ailures
 
 The LoN failed to deal with:
 
@@ -540,4 +540,4 @@ Most infamous death camp. Over 2 million were killed in this camp.
 
 ### Aftermath
 
-Near the end of the war, Hitler diverted troops to kill Jewish people at a faster rate. 6 million were killed in total. This was a third of all Jewish people in Europe.
+Near the end of the war, Hitler diverted troops to kill Jewish people at a faster rate. 6 million were killed in total. This was a third of all Jewish people in Europe. 

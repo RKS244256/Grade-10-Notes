@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Physics/Optics_SNC2D0.md",
+                "file": "History/WW2/WW2_CHC2D0.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Physics/Optics_SNC2D0.md",
+                "file": "History/WW2/WW2_CHC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Physics/Optics_SNC2D0.md",
+                "file": "History/WW2/WW2_CHC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Physics/Optics_SNC2D0.md"
+                "file": "History/WW2/WW2_CHC2D0.md"
               }
             }
           },
@@ -168,16 +167,16 @@
   },
   "active": "be41a808e2eb2a23",
   "lastOpenFiles": [
-    "Science/Physics/ElectroMagnetic_Spectrum.png",
-    "Science/Physics/Wave.png",
+    "History/WW2/Auschwitz.jpeg",
+    "History/WW2/Jewish_Ghetto.jpg",
     "History/WW2/WW2_CHC2D0.md",
     "Science/Physics/Optics_SNC2D0.md",
+    "Science/Physics/ElectroMagnetic_Spectrum.png",
+    "Science/Physics/Wave.png",
     "Science/Physics",
-    "History/WW2/Auschwitz.jpeg",
     "History/WW2/Oven.jpeg",
     "History/WW2/Shower.jpeg",
     "History/WW2/Concentration_Camp.jpg",
-    "History/WW2/Jewish_Ghetto.jpg",
     "History/WW2/Kristallnacht.jpg",
     "Science/Biology/Pneumonia.md",
     "Science/Biology/Biology_SNC2D0.md",
@@ -185,7 +184,6 @@
     "History/WW2/Blitzkrieg.png",
     "History/WW2/Fascist_symbol.png",
     "Science/Biology/To-Do.md",
-    "Science/Biology/Plant_Diagram.png",
     "History/WW2",
     "README.md",
     "Science/Biology/Heart.webp.crdownload",

@@ -93,3 +93,13 @@ Light enters your eyes from everything you see. Objects can either produce or re
 | Chemiluminescence          | Production of light as a result of a chemical reaction. Little to no heat produced. Cyalume + Hydrogen Peroxide = Light | Glowsticks                                                  |
 | LED (Light Emitting Diode) | Light produced as a result of a current flowing through semiconductors (1 direction)                                    | LED Lightbulbs                                                            |
 
+## Mirrors
+
+### Characteristics:
+| Characteristics | Description            |
+| --------------- | ---------------------- |
+| Size            | Smaller or Larger      |
+| Attitude        | Upright or upside down |
+| Location        | Close or far           |
+| Type            | Virtual or real                       |
+
