@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md",
+                "file": "Science/Physics/Optics_SNC2D0.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md",
+                "file": "Science/Physics/Optics_SNC2D0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md",
+                "file": "Science/Physics/Optics_SNC2D0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/WW2/WW2_CHC2D0.md"
+                "file": "Science/Physics/Optics_SNC2D0.md"
               }
             }
           },
@@ -166,10 +166,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036005a1a9781fb7",
+  "active": "be41a808e2eb2a23",
   "lastOpenFiles": [
-    "History/WW2/Auschwitz.jpeg",
+    "Science/Physics/ElectroMagnetic_Spectrum.png",
+    "Science/Physics/Wave.png",
     "History/WW2/WW2_CHC2D0.md",
+    "Science/Physics/Optics_SNC2D0.md",
+    "Science/Physics",
+    "History/WW2/Auschwitz.jpeg",
     "History/WW2/Oven.jpeg",
     "History/WW2/Shower.jpeg",
     "History/WW2/Concentration_Camp.jpg",
@@ -184,8 +188,6 @@
     "Science/Biology/Plant_Diagram.png",
     "History/WW2",
     "README.md",
-    "Pasted image 20230415175307.png",
-    "Science/Biology/Parts_Of_The_Brain.png",
     "Science/Biology/Heart.webp.crdownload",
     "History/1930/1930_CHC2D0.md",
     "Science/Biology/Muscle_Fibers.jpg.crdownload",
@@ -197,7 +199,6 @@
     "Science/Biology/Cytokinesis.png.crdownload",
     "Science/Biology/Telophase.png.crdownload",
     "Science/Biology/Anaphase.png.crdownload",
-    "Science/Biology/Metaphase.png.crdownload",
     "Prokaryotes-Eukaryotes.jpg.md",
     "Biology/Untitled.md",
     "Science/Chemistry_SNC2D0.md",
