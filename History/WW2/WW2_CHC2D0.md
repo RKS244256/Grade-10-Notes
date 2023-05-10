@@ -388,13 +388,78 @@ The U.S immediately declared war on Japan & joined WW2. The U.S was the richest 
 
 A few hours later, Japan invaded Hong Kong. The soldiers stationed in Hong Kong were C-force soldiers not prepared for war. They were outclassed & outmanned. The invasion started on December 8, 1941 & ended with the surrender of Hong Kong on December 25, 1941. Every Canadian soldier had either been killed or taken as a **POW**. The POWs were treated harshly with 3 bowls of rice per day, no medicine & being overworked.
 
-## VE Day
+## Allies Strike Back
 
-*To be added*
+### Atlantic Wall
+Hitler claimed majority of Europe & needed to protect it. The Nazis came up with the Atlantic Wall. This wall guarded the English Channel.
+
+The Atlantic Wall consisted of many obstacles under the water to prevent ships from crossing over, the way the Allied Forces overcame this was by stopping far from the beach that the Nazis sat on, and sending troops where the ships couldn't advance forward. 
+
+### Atlantic Wall (Ocean)
+-   Wooden Beams (Wooden logs held at an angle to puncture ships, causing them to sink)
+-    Hedgehogs (steel rails crossed positioned in shallow water to damage boats & stop tanks)
+
+#### Atlantic Wall (Land)
+-   Land Mines
+-   Concrete Bunkers
+-   Giant Guns (Facing the English Channel to attack incoming ships and troops)
+-   Tall Cliffs and Bluffs (Making getting on land and advancing to the bunkers more difficult)
+
+### Dieppe
+
+5000 Canadian soldiers were sent to gather intel. However, their ships got lost, arrived late, or were spotted by the Germans. When they arrived, the Germans were ready and began sinking the boats. 900 Canadians were killed & 2000 were taken as POWs. Only a few ever reached the town. This operation was a failure but tested German defenses.
+
+### Africa
+
+Battles were being fought in Africa between the British & Axis. In 1943, the British defeated both armies & caused the retreat of the Afrika Korps.
+
+### Italy
+
+Canadians were sent to Sicily and within weeks, Mussoline was overthrown & his government surrendered. However, experienced Nazi soldiers contined to fight Canadians at Ortona. The Canadians were victorious but sustained heavy casualties.
+
+### Atlantic
+
+The **RCN** (Royal Canadian Navy) had been fighting German U-Boats in the Atlantic. By 1943, new tech allowed the detection of U-Boats and underwater mines gave the Allies an advantage.
+
+## D-Day
+
+D-Day (aka Battle of Normandy) resulted in the Allied liberation of Western Europe from Nazi control. Was codenamed Operation Overlord & began on June 6, 1944. The invasion was one of the largest amphibious assaults in history.
+
+The Allies deployed fake tanks, transmissions & double agents to decieve the Nazis into thinking the invasion would happen in Northern Europe. 
+
+Thousands stormed D-Day with 4000 killed & thousands more missing or injured. 
+
+Hitler didn't send troops as he thought it was a fake attack. To compound this, Erwin Rommel (One responsible for the Atlantic Wall) was away for his wife's birthday.
+
+This attack lead to the Germans starting to lose ground in Europe.
+
+## Victory in Europe
+
+While British, American, & Canadian forces landed on the beaches of Normandy on D-Day, other Allies invaded southern Europe through Italy & France. The fighting continued to push the Germans out of French territory for 11 months. 1000 Canadians were killed per month.
+
+#### Netherlands
+
+Canadian troops were tasked with liberating the Dutch by pushing the Nazis out of the Netherlands. This campagn cost 7500 casualties but in May 1945, the Germans surrendered. Canadians brought in medical supplies and airlifted food into the region for the starving citizens. Because of this, the Netherlands sends 20,000 tulips to Ottawa each year.
+
+### End of Nazi Germany
+
+The Soviets were advancing towards Berlin. In April 1945, Soviet troops entered Berline and by May 8th, 1945, the fighting in Europe was over. Hitler committed suicide on April 30, 1945.
+
+After Nazi Germany's surrender, it ceased to exist. VE Day had arrived. 
 
 ## VJ Day
 
-*To be added*
+Fighting contined in the Pacific. Soldiers who could speak Japanese & Chinese were in high demand. They were used as spies behind enemy lines. Their contributions were a fact in moving the Canadian government to grant Chinese-Canadians the right to vote in 1947. 
+
+Japanese-Canadians were still victims of rascism after Pearl Harbour & the fall of Hong Kong. They were either sent to internemnt campls or allowed to join the Canadian Intelligence Corps. They were used as translators to interrogate Japanese prisoners. In 1948, Japanese-Canadians were also given the right to vote.
+
+#### Japan's Surrender
+
+InJuly 1945, President Truman warned Japan to surrender or be completely destroyed. On the 6th of August 1945, an atomic bomb was dropped on Hiroshima by a bomber called Enola Gay. 
+
+The Japanese did not surrender and 3 days later, another was dropped on Nagasaki. Radiation poisoning took effect by this time.
+
+Japan finally surrendered on the 2nd of September 1945 to General Douglas MacArthur.
 
 ## The Holocaust
 
@@ -469,7 +534,7 @@ Gas chambers would be disguised as showers. A poison gas called Zyklon B would f
 
 #### Auschwitz-Birkenau
 
-Most infamous death camp. Over 2 million were killed including Anne Frank. A Jewish teenager whose diary has become a notable primary source.
+Most infamous death camp. Over 2 million were killed in this camp.
 
 ![Auschwitz|400](Auschwitz.jpeg)
 

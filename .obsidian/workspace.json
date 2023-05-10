@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b62df74814f15df7",
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be41a808e2eb2a23",
+  "active": "036005a1a9781fb7",
   "lastOpenFiles": [
     "History/WW2/Auschwitz.jpeg",
     "History/WW2/WW2_CHC2D0.md",
