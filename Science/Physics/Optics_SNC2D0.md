@@ -96,6 +96,8 @@ Light enters your eyes from everything you see. Objects can either produce or re
 ## Mirrors
 
 ### Characteristics:
+
+These are used to describe the image created by a mirror.
 | Characteristics | Description            |
 | --------------- | ---------------------- |
 | Size            | Smaller or Larger      |
@@ -103,3 +105,44 @@ Light enters your eyes from everything you see. Objects can either produce or re
 | Location        | Close or far           |
 | Type            | Virtual or real                       |
 
+### Plane Mirrors
+
+Flat mirrors. The angle of incidence is equal to the angle of reflection. Very easy to predict, very hard to draw well.
+
+### Terms For Curved Mirrors
+
+#### Principal Axis
+
+Line through the **centre of curvature** to **midpoint** of the mirror.
+
+#### Vertex
+
+The point where the **principal axis** meets the mirror.
+
+#### Focus
+
+Point where parallel rays converge.
+
+#### Centre of Curvature
+
+Center of the sphere. 2x the length of the **focus**.
+
+#### Real Image
+
+Image formed in front of the mirror. Can be projected onto a screen.
+
+#### Virtual Image
+
+Image formed behind the mirror. Cannot be projected onto a screen.
+
+### Concave Mirrors
+
+Reflective surface curves inwards. Light that is sent into the mirror gets bent towards the middle. Locate image by finding where 2 light rays intersect.
+
+![Concave Mirror Properties|600](Concave_Mirror_Table.png)
+
+### Convex Mirrors
+
+Reflecting surface curves outwards. Lights that comes gets bent away from the middle. Locate by finding where light rays appear to intersect behind the mirror.
+
+All images from a concave mirror are upright, behind the mirror & virtual.
